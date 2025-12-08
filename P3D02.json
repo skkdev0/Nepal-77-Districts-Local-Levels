@@ -1,0 +1,139 @@
+{
+  "district_id": "P3D02",
+  "district_name_ne": "रामेछाप",
+  "district_name_en": "Ramechhap",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मन्थली",
+      "local_level_name_en": "Manthali",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 2, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 3, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 4, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 5, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 6, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 7, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 8, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 9, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 10, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 11, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 12, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 13, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"},
+        {"ward_no": 14, "ward_name_ne": "मन्थली", "ward_name_en": "Manthali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रामेछाप",
+      "local_level_name_en": "Ramechhap",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 2, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 3, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 4, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 5, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 6, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 7, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 8, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"},
+        {"ward_no": 9, "ward_name_ne": "रामेछाप", "ward_name_en": "Ramechhap"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खाँडादेवी",
+      "local_level_name_en": "Khandadevi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 2, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 3, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 4, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 5, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 6, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 7, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 8, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"},
+        {"ward_no": 9, "ward_name_ne": "खाँडादेवी", "ward_name_en": "Khandadevi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "उमाकुण्ड",
+      "local_level_name_en": "Umakuinda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 2, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 3, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 4, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 5, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 6, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"},
+        {"ward_no": 7, "ward_name_ne": "उमाकुण्ड", "ward_name_en": "Umakuinda"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गोकुलगंगा",
+      "local_level_name_en": "Gokulganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 2, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 3, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 4, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 5, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 6, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"},
+        {"ward_no": 7, "ward_name_ne": "गोकुलगंगा", "ward_name_en": "Gokulganga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दोरम्बा",
+      "local_level_name_en": "Doramba",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 2, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 3, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 4, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 5, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 6, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"},
+        {"ward_no": 7, "ward_name_ne": "दोरम्बा", "ward_name_en": "Doramba"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुनापति",
+      "local_level_name_en": "Sunapati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनापति", "ward_name_en": "Sunapati"},
+        {"ward_no": 2, "ward_name_ne": "सुनापति", "ward_name_en": "Sunapati"},
+        {"ward_no": 3, "ward_name_ne": "सुनापति", "ward_name_en": "Sunapati"},
+        {"ward_no": 4, "ward_name_ne": "सुनापति", "ward_name_en": "Sunapati"},
+        {"ward_no": 5, "ward_name_ne": "सुनापति", "ward_name_en": "Sunapati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिखु तामाकोशी",
+      "local_level_name_en": "Likhu Tamakoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 2, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 3, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 4, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 5, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 6, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"},
+        {"ward_no": 7, "ward_name_ne": "लिखु तामाकोशी", "ward_name_en": "Likhu Tamakoshi"}
+      ]
+    }
+  ]
+}

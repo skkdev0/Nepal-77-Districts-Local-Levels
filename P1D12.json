@@ -1,0 +1,146 @@
+{
+  "district_id": "P1D12",
+  "district_name_ne": "ओखलढुङ्गा",
+  "district_name_en": "Okhaldhunga",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सिद्धिचरण",
+      "local_level_name_en": "Siddhicharan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 2, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 3, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 4, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 5, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 6, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 7, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 8, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 9, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 10, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 11, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"},
+        {"ward_no": 12, "ward_name_ne": "सिद्धिचरण", "ward_name_en": "Siddhicharan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मानेभञ्ज्याङ",
+      "local_level_name_en": "Manebhanjyang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 2, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 3, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 4, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 5, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 6, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 7, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 8, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 9, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"},
+        {"ward_no": 10, "ward_name_ne": "मानेभञ्ज्याङ", "ward_name_en": "Manebhanjyang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चिशंखुगढी",
+      "local_level_name_en": "Chishankhugadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 2, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 3, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 4, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 5, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 6, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 7, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"},
+        {"ward_no": 8, "ward_name_ne": "चिशंखुगढी", "ward_name_en": "Chishankhugadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिखु",
+      "local_level_name_en": "Likhu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 2, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 3, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 4, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 5, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 6, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 7, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मोलुङ",
+      "local_level_name_en": "Molung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 2, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 3, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 4, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 5, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 6, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 7, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"},
+        {"ward_no": 8, "ward_name_ne": "मोलुङ", "ward_name_en": "Molung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुनकोशी",
+      "local_level_name_en": "Sunkoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 2, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 3, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 4, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 5, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 6, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 7, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 8, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 9, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 10, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिखु गाउँपालिका",
+      "local_level_name_en": "Likhu Rural Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 2, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 3, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 4, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 5, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 6, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"},
+        {"ward_no": 7, "ward_name_ne": "लिखु", "ward_name_en": "Likhu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "Champadevi",
+      "local_level_name_en": "Champadevi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 2, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 3, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 4, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 5, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 6, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 7, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 8, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 9, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"},
+        {"ward_no": 10, "ward_name_ne": "Champadevi", "ward_name_en": "Champadevi"}
+      ]
+    }
+  ]
+}

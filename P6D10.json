@@ -1,0 +1,176 @@
+{
+  "district_id": "P6D10",
+  "district_name_ne": "सल्यान",
+  "district_name_en": "Salyan",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शारदा",
+      "local_level_name_en": "Sharada",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 2, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 3, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 4, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 5, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 6, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 7, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 8, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 9, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 10, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 11, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 12, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 13, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 14, "ward_name_ne": "शारदा", "ward_name_en": "Sharada"},
+        {"ward_no": 15, "ward_no": "शारदा", "ward_name_en": "Sharada"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बन्गाड कुपिण्डे",
+      "local_level_name_en": "Bangad Kupinde",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 2, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 3, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 4, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 5, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 6, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 7, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 8, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 9, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 10, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 11, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"},
+        {"ward_no": 12, "ward_name_ne": "बन्गाड कुपिण्डे", "ward_name_en": "Bangad Kupinde"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बागचौर",
+      "local_level_name_en": "Bagchaur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 2, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 3, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 4, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 5, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 6, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 7, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 8, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 9, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 10, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 11, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"},
+        {"ward_no": 12, "ward_name_ne": "बागचौर", "ward_name_en": "Bagchaur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कालीमाटी",
+      "local_level_name_en": "Kalimati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 2, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 3, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 4, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 5, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 6, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"},
+        {"ward_no": 7, "ward_name_ne": "कालीमाटी", "ward_name_en": "Kalimati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कपूरकोट",
+      "local_level_name_en": "Kapurkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कपूरकोट", "ward_name_en": "Kapurkot"},
+        {"ward_no": 2, "ward_name_ne": "कपूरकोट", "ward_name_en": "Kapurkot"},
+        {"ward_no": 3, "ward_name_ne": "कपूरकोट", "ward_name_en": "Kapurkot"},
+        {"ward_no": 4, "ward_name_ne": "कपूरकोट", "ward_name_en": "Kapurkot"},
+        {"ward_no": 5, "ward_name_ne": "कपूरकोट", "ward_name_en": "Kapurkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिद्धकुमाख",
+      "local_level_name_en": "Siddhakumakh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिद्धकुमाख", "ward_name_en": "Siddhakumakh"},
+        {"ward_no": 2, "ward_name_ne": "सिद्धकुमाख", "ward_name_en": "Siddhakumakh"},
+        {"ward_no": 3, "ward_name_ne": "सिद्धकुमाख", "ward_name_en": "Siddhakumakh"},
+        {"ward_no": 4, "ward_name_ne": "सिद्धकुमाख", "ward_name_en": "Siddhakumakh"},
+        {"ward_no": 5, "ward_name_ne": "सिद्धकुमाख", "ward_name_en": "Siddhakumakh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "त्रिवेणी",
+      "local_level_name_en": "Triveni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 2, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 3, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 4, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 5, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 6, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 7, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 8, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 9, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 10, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दार्मा",
+      "local_level_name_en": "Darma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"},
+        {"ward_no": 2, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"},
+        {"ward_no": 3, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"},
+        {"ward_no": 4, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"},
+        {"ward_no": 5, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"},
+        {"ward_no": 6, "ward_name_ne": "दार्मा", "ward_name_en": "Darma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कुमाख",
+      "local_level_name_en": "Kumakh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 2, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 3, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 4, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 5, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 6, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"},
+        {"ward_no": 7, "ward_name_ne": "कुमाख", "ward_name_en": "Kumakh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छत्रेश्वरी",
+      "local_level_name_en": "Chatreshwari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 2, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 3, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 4, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 5, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 6, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"},
+        {"ward_no": 7, "ward_name_ne": "छत्रेश्वरी", "ward_name_en": "Chatreshwari"}
+      ]
+    }
+  ]
+}

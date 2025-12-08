@@ -1,0 +1,173 @@
+{
+  "district_id": "P1D03",
+  "district_name_ne": "इलाम",
+  "district_name_en": "Ilam",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "इलाम",
+      "local_level_name_en": "Ilam",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साक्फारा", "ward_name_en": "Sakphara"},
+        {"ward_no": 2, "ward_name_ne": "सुम्बेक", "ward_name_en": "Sumbek"},
+        {"ward_no": 3, "ward_name_ne": "पुवामझुवा", "ward_name_en": "Puwa Majhuwa"},
+        {"ward_no": 4, "ward_name_ne": "साँखेजुङ", "ward_name_en": "Sankhejung"},
+        {"ward_no": 5, "ward_name_ne": "इलाम बजार", "ward_name_en": "Ilam Bazar"},
+        {"ward_no": 6, "ward_name_ne": "गोर्मे", "ward_name_en": "Gorme"},
+        {"ward_no": 7, "ward_name_ne": "इलाम बजार", "ward_name_en": "Ilam Bazar"},
+        {"ward_no": 8, "ward_name_ne": "माईपोखरी", "ward_name_en": "Maipokhari"},
+        {"ward_no": 9, "ward_name_ne": "एकतप्पा", "ward_name_en": "Ektappa"},
+        {"ward_no": 10, "ward_name_ne": "सुुलुबुङ", "ward_name_en": "Sulubung"},
+        {"ward_no": 11, "ward_name_ne": "बरबोटे", "ward_name_en": "Barbote"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सूर्योदय",
+      "local_level_name_en": "Suryodaya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 2, "ward_name_ne": "गोलाखर्क", "ward_name_en": "Golakharaka"},
+        {"ward_no": 3, "ward_name_ne": "पशुपतिनगर", "ward_name_en": "Pashupatinagar"},
+        {"ward_no": 4, "ward_name_ne": "श्रीअन्तु", "ward_name_en": "Shree Antu"},
+        {"ward_no": 5, "ward_name_ne": "करफोक", "ward_name_en": "Karphok"},
+        {"ward_no": 6, "ward_name_ne": "हर्कटे", "ward_name_en": "Harkate"},
+        {"ward_no": 7, "ward_name_ne": "कन्याम", "ward_name_en": "Kanyam"},
+        {"ward_no": 8, "ward_name_ne": "जस्बिरे", "ward_name_en": "Jasbire"},
+        {"ward_no": 9, "ward_name_ne": "कालेबुङ", "ward_name_en": "Kalebung"},
+        {"ward_no": 10, "ward_name_ne": "समालबुङ्ग", "ward_name_en": "Samalbung"},
+        {"ward_no": 11, "ward_name_ne": "रोङ्", "ward_name_en": "Rong"},
+        {"ward_no": 12, "ward_name_ne": "जीतपुर", "ward_name_en": "Jitpur"},
+        {"ward_no": 13, "ward_name_ne": "लप्से", "ward_name_en": "Lapse"},
+        {"ward_no": 14, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "देउमाई",
+      "local_level_name_en": "Deumai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जितपुर", "ward_name_en": "Jitpur"},
+        {"ward_no": 2, "ward_name_ne": "इराउटार", "ward_name_en": "Irautar"},
+        {"ward_no": 3, "ward_name_ne": "चमैता", "ward_name_en": "Chawaita"},
+        {"ward_no": 4, "ward_name_ne": "दालगाउँ", "ward_name_en": "Dalgaun"},
+        {"ward_no": 5, "ward_name_ne": "शांतीडाँडा", "ward_name_en": "Shanti Danda"},
+        {"ward_no": 6, "ward_name_ne": "नयाँबजार", "ward_name_en": "Naya Bazar"},
+        {"ward_no": 7, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 8, "ward_name_ne": "नयाँबजार", "ward_name_en": "Naya Bazar"},
+        {"ward_no": 9, "ward_name_ne": "एकतप्पा", "ward_name_en": "Ektappa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "माई",
+      "local_level_name_en": "Mai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नयाँबजार", "ward_name_en": "Naya Bazar"},
+        {"ward_no": 2, "ward_name_ne": "दानामणि", "ward_name_en": "Danamani"},
+        {"ward_no": 3, "ward_name_ne": "चित्रे", "ward_name_en": "Chitre"},
+        {"ward_no": 4, "ward_name_ne": "लुम्दे", "ward_name_en": "Lumde"},
+        {"ward_no": 5, "ward_name_ne": "चमैता", "ward_name_en": "Chawaita"},
+        {"ward_no": 6, "ward_name_ne": "इभाङ", "ward_name_en": "Ivang"},
+        {"ward_no": 7, "ward_name_ne": "नामसालिङ", "ward_name_en": "Namsaling"},
+        {"ward_no": 8, "ward_name_ne": "सोयाक", "ward_name_en": "Soyak"},
+        {"ward_no": 9, "ward_name_ne": "नामसालिङ", "ward_name_en": "Namsaling"},
+        {"ward_no": 10, "ward_name_ne": "सुलुबुङ", "ward_name_en": "Sulubung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "फाकफोकथुम",
+      "local_level_name_en": "Phakphokthum",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 2, "ward_name_ne": "फुयँतापा", "ward_name_en": "Phuyantapa"},
+        {"ward_no": 3, "ward_name_ne": "आम्चोक", "ward_name_en": "Amchok"},
+        {"ward_no": 4, "ward_name_ne": "लुटु", "ward_name_en": "Lutu"},
+        {"ward_no": 5, "ward_name_ne": "लुम्दे", "ward_name_en": "Lumde"},
+        {"ward_no": 6, "ward_name_ne": "फाकफोक", "ward_name_en": "Phakphok"},
+        {"ward_no": 7, "ward_name_ne": "इभाङ", "ward_name_en": "Ivang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चुलाचुली",
+      "local_level_name_en": "Chulachuli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"},
+        {"ward_no": 2, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"},
+        {"ward_no": 3, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"},
+        {"ward_no": 4, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"},
+        {"ward_no": 5, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"},
+        {"ward_no": 6, "ward_name_ne": "चुलाचुली", "ward_name_en": "Chulachuli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "माइजोगमाई",
+      "local_level_name_en": "Maijogmai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नयाँबजार", "ward_name_en": "Naya Bazar"},
+        {"ward_no": 2, "ward_name_ne": "इभाङ", "ward_name_en": "Ivang"},
+        {"ward_no": 3, "ward_name_ne": "नामसालिङ", "ward_name_en": "Namsaling"},
+        {"ward_no": 4, "ward_name_ne": "जोगमाई", "ward_name_en": "Jogmai"},
+        {"ward_no": 5, "ward_name_ne": "नामसालिङ", "ward_name_en": "Namsaling"},
+        {"ward_no": 6, "ward_name_ne": "सोयाक", "ward_name_en": "Soyak"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रोङ",
+      "local_level_name_en": "Rong",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इराउटार", "ward_name_en": "Irautar"},
+        {"ward_no": 2, "ward_name_ne": "सलकपुर", "ward_name_en": "Salakpur"},
+        {"ward_no": 3, "ward_name_ne": "रोङ", "ward_name_en": "Rong"},
+        {"ward_no": 4, "ward_name_ne": "कुटिडाँडा", "ward_name_en": "Kutidanda"},
+        {"ward_no": 5, "ward_name_ne": "रोङ", "ward_name_en": "Rong"},
+        {"ward_no": 6, "ward_name_ne": "रोङ", "ward_name_en": "Rong"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सन्दकपुर",
+      "local_level_name_en": "Sandakpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माईपोखरी", "ward_name_en": "Maipokhari"},
+        {"ward_no": 2, "ward_name_ne": "सुलुबुङ", "ward_name_en": "Sulubung"},
+        {"ward_no": 3, "ward_name_ne": "माइपोखरी", "ward_name_en": "Maipokhari"},
+        {"ward_no": 4, "ward_name_ne": "माईपोखरी", "ward_name_en": "Maipokhari"},
+        {"ward_no": 5, "ward_name_ne": "ज्यामिरे", "ward_name_en": "Jyamire"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मंगलबारे",
+      "local_level_name_en": "Mangalbare (Unconfirmed Local Level Name/Old VDC Name)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 2, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 3, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 4, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 5, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 6, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 7, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 8, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"},
+        {"ward_no": 9, "ward_name_ne": "मंगलबारे", "ward_name_en": "Mangalbare"}
+      ]
+    }
+  ]
+}

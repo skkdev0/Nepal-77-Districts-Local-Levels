@@ -1,0 +1,66 @@
+{
+  "district_id": "P5D09",
+  "district_name_ne": "रुकुम पूर्व",
+  "district_name_en": "Rukum East",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 3,
+  "local_levels": [
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भूमे",
+      "local_level_name_en": "Bhume",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 2, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 3, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 4, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 5, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 6, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 7, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 8, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"},
+        {"ward_no": 9, "ward_name_ne": "भूमे", "ward_name_en": "Bhume"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिस्ने",
+      "local_level_name_en": "Sisne",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 2, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 3, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 4, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 5, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 6, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 7, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"},
+        {"ward_no": 8, "ward_name_ne": "सिस्ने", "ward_name_en": "Sisne"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पुथा उत्तरगंगा",
+      "local_level_name_en": "Putha Uttarganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 2, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 3, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 4, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 5, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 6, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 7, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 8, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 9, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 10, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 11, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 12, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 13, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"},
+        {"ward_no": 14, "ward_name_ne": "पुथा उत्तरगंगा", "ward_name_en": "Putha Uttarganga"}
+      ]
+    }
+  ]
+}
+=

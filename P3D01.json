@@ -1,0 +1,164 @@
+{
+  "district_id": "P3D01",
+  "district_name_ne": "सिन्धुली",
+  "district_name_en": "Sindhuli",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कमलामाई",
+      "local_level_name_en": "Kamalamai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 2, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 3, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 4, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 5, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 6, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 7, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 8, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 9, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 10, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 11, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 12, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 13, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"},
+        {"ward_no": 14, "ward_name_ne": "कमलामाई", "ward_name_en": "Kamalamai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दुधौली",
+      "local_level_name_en": "Dudhauli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 2, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 3, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 4, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 5, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 6, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 7, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 8, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 9, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 10, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 11, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 12, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 13, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"},
+        {"ward_no": 14, "ward_name_ne": "दुधौली", "ward_name_en": "Dudhauli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "फिक्कल",
+      "local_level_name_en": "Fikkal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 2, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 3, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 4, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 5, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 6, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"},
+        {"ward_no": 7, "ward_name_ne": "फिक्कल", "ward_name_en": "Fikkal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "घ्याङलेख",
+      "local_level_name_en": "Ghyanglekh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 2, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 3, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 4, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 5, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 6, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"},
+        {"ward_no": 7, "ward_name_ne": "घ्याङलेख", "ward_name_en": "Ghyanglekh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तेस्रोले",
+      "local_level_name_en": "Tesrole",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 2, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 3, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 4, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 5, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 6, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 7, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"},
+        {"ward_no": 8, "ward_name_ne": "तेस्रोले", "ward_name_en": "Tesrole"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मरिण",
+      "local_level_name_en": "Marin",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 2, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 3, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 4, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 5, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 6, "ward_name_ne": "मरिण", "ward_name_en": "Marin"},
+        {"ward_no": 7, "ward_name_ne": "मरिण", "ward_name_en": "Marin"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गोलन्जोर",
+      "local_level_name_en": "Golanchour",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 2, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 3, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 4, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 5, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 6, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"},
+        {"ward_no": 7, "ward_name_ne": "गोलन्जोर", "ward_name_en": "Golanchour"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुनकोशी",
+      "local_level_name_en": "Sunkoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 2, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 3, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 4, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 5, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 6, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 7, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "тинपाटन",
+      "local_level_name_en": "Tinpatan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 2, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 3, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 4, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 5, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 6, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 7, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 8, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 9, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 10, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"},
+        {"ward_no": 11, "ward_name_ne": "टिनपाटन", "ward_name_en": "Tinpatan"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "district_id": "P4D06",
+  "district_name_ne": "पर्वत",
+  "district_name_en": "Parbat",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कुश्मा",
+      "local_level_name_en": "Kushma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 2, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 3, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 4, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 5, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 6, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 7, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 8, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 9, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 10, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 11, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 12, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 13, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"},
+        {"ward_no": 14, "ward_name_ne": "कुश्मा", "ward_name_en": "Kushma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "फलेबास",
+      "local_level_name_en": "Phalewas",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 2, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 3, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 4, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 5, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 6, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 7, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 8, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 9, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 10, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"},
+        {"ward_no": 11, "ward_name_ne": "फलेबास", "ward_name_en": "Phalewas"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जलजला",
+      "local_level_name_en": "Jaljala",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 2, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 3, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 4, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 5, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 6, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 7, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 8, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"},
+        {"ward_no": 9, "ward_name_ne": "जलजला", "ward_name_en": "Jaljala"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "महाशिला",
+      "local_level_name_en": "Mahashila",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"},
+        {"ward_no": 2, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"},
+        {"ward_no": 3, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"},
+        {"ward_no": 4, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"},
+        {"ward_no": 5, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"},
+        {"ward_no": 6, "ward_name_ne": "महाशिला", "ward_name_en": "Mahashila"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पैयुँ",
+      "local_level_name_en": "Paiyun",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 2, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 3, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 4, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 5, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 6, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"},
+        {"ward_no": 7, "ward_name_ne": "पैयुँ", "ward_name_en": "Paiyun"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मोदी",
+      "local_level_name_en": "Modi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 2, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 3, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 4, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 5, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 6, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 7, "ward_name_ne": "मोदी", "ward_name_en": "Modi"},
+        {"ward_no": 8, "ward_name_ne": "मोदी", "ward_name_en": "Modi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बिहादी",
+      "local_level_name_en": "Bihadi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 2, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 3, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 4, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 5, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 6, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"},
+        {"ward_no": 7, "ward_name_ne": "बिहादी", "ward_name_en": "Bihadi"}
+      ]
+    }
+  ]
+}

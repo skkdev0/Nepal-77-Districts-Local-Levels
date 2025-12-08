@@ -1,0 +1,164 @@
+{
+  "district_id": "P1D10",
+  "district_name_ne": "भोजपुर",
+  "district_name_en": "Bhojpur",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भोजपुर",
+      "local_level_name_en": "Bhojpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 2, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 3, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 4, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 5, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 6, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 7, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 8, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 9, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 10, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 11, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"},
+        {"ward_no": 12, "ward_name_ne": "भोजपुर", "ward_name_en": "Bhojpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "षडानन्द",
+      "local_level_name_en": "Shadananda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 2, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 3, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 4, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 5, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 6, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 7, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 8, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 9, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 10, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 11, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 12, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 13, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"},
+        {"ward_no": 14, "ward_name_ne": "दिङ्गला", "ward_name_en": "Dingla"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ट्याम्के मैयुम",
+      "local_level_name_en": "Tyamke Maiyum",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ट्याम्के", "ward_name_en": "Tyamke"},
+        {"ward_no": 2, "ward_name_ne": "ट्याम्के", "ward_name_en": "Tyamke"},
+        {"ward_no": 3, "ward_name_ne": "ट्याम्के", "ward_name_en": "Tyamke"},
+        {"ward_no": 4, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 5, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 6, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 7, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 8, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 9, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"},
+        {"ward_no": 10, "ward_name_ne": "मैयुम", "ward_name_en": "Maiyum"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पौवादुङमा",
+      "local_level_name_en": "Powadumgma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"},
+        {"ward_no": 2, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"},
+        {"ward_no": 3, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"},
+        {"ward_no": 4, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"},
+        {"ward_no": 5, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"},
+        {"ward_no": 6, "ward_name_ne": "पौवादुङमा", "ward_name_en": "Powadumgma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अरुण",
+      "local_level_name_en": "Arun",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 2, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 3, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 4, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 5, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 6, "ward_name_ne": "अरुण", "ward_name_en": "Arun"},
+        {"ward_no": 7, "ward_name_ne": "अरुण", "ward_name_en": "Arun"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हतुवागढी",
+      "local_level_name_en": "Hatuwagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 2, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 3, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 4, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 5, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 6, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 7, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 8, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"},
+        {"ward_no": 9, "ward_name_ne": "हतुवागढी", "ward_name_en": "Hatuwagadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आमचोक",
+      "local_level_name_en": "Amchok",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 2, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 3, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 4, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 5, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 6, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 7, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 8, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 9, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"},
+        {"ward_no": 10, "ward_name_ne": "आमचोक", "ward_name_en": "Amchok"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रामप्रसादराई",
+      "local_level_name_en": "Ramprasad Rai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 2, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 3, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 4, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 5, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 6, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 7, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"},
+        {"ward_no": 8, "ward_name_ne": "रामप्रसादराई", "ward_name_en": "Ramprasad Rai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "साल्पासिलिछो",
+      "local_level_name_en": "Salpasili Chho",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"},
+        {"ward_no": 2, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"},
+        {"ward_no": 3, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"},
+        {"ward_no": 4, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"},
+        {"ward_no": 5, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"},
+        {"ward_no": 6, "ward_name_ne": "साल्पासिलिछो", "ward_name_en": "Salpasili Chho"}
+      ]
+    }
+  ]
+}

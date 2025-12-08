@@ -1,0 +1,119 @@
+{
+  "district_id": "P7D04",
+  "district_name_ne": "डडेल्धुरा",
+  "district_name_en": "Dadeldhura",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "अमरगढी",
+      "local_level_name_en": "Amargadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 2, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 3, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 4, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 5, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 6, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 7, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 8, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 9, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 10, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"},
+        {"ward_no": 11, "ward_name_ne": "अमरगढी", "ward_name_en": "Amargadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "परशुराम",
+      "local_level_name_en": "Parashuram",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 2, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 3, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 4, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 5, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 6, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 7, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 8, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 9, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 10, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 11, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"},
+        {"ward_no": 12, "ward_name_ne": "परशुराम", "ward_name_en": "Parashuram"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आलिताल",
+      "local_level_name_en": "Alital",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 2, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 3, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 4, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 5, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 6, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 7, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"},
+        {"ward_no": 8, "ward_name_ne": "आलिताल", "ward_name_en": "Alital"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गन्यापधुरा",
+      "local_level_name_en": "Ganyapdhura",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गन्यापधुरा", "ward_name_en": "Ganyapdhura"},
+        {"ward_no": 2, "ward_name_ne": "गन्यापधुरा", "ward_name_en": "Ganyapdhura"},
+        {"ward_no": 3, "ward_name_ne": "गन्यापधुरा", "ward_name_en": "Ganyapdhura"},
+        {"ward_no": 4, "ward_name_ne": "गन्यापधुरा", "ward_name_en": "Ganyapdhura"},
+        {"ward_no": 5, "ward_name_ne": "गन्यापधुरा", "ward_name_en": "Ganyapdhura"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नवदुर्गा",
+      "local_level_name_en": "Navadurga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"},
+        {"ward_no": 2, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"},
+        {"ward_no": 3, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"},
+        {"ward_no": 4, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"},
+        {"ward_no": 5, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"},
+        {"ward_no": 6, "ward_name_ne": "नवदुर्गा", "ward_name_en": "Navadurga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भागेश्वर",
+      "local_level_name_en": "Bhageshwar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भागेश्वर", "ward_name_en": "Bhageshwar"},
+        {"ward_no": 2, "ward_name_ne": "भागेश्वर", "ward_name_en": "Bhageshwar"},
+        {"ward_no": 3, "ward_name_ne": "भागेश्वर", "ward_name_en": "Bhageshwar"},
+        {"ward_no": 4, "ward_name_ne": "भागेश्वर", "ward_name_en": "Bhageshwar"},
+        {"ward_no": 5, "ward_name_ne": "भागेश्वर", "ward_name_en": "Bhageshwar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अजयमेरु",
+      "local_level_name_en": "Ajaymeru",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"},
+        {"ward_no": 2, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"},
+        {"ward_no": 3, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"},
+        {"ward_no": 4, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"},
+        {"ward_no": 5, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"},
+        {"ward_no": 6, "ward_name_ne": "अजयमेरु", "ward_name_en": "Ajaymeru"}
+      ]
+    }
+  ]
+}

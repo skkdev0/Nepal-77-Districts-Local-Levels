@@ -1,0 +1,156 @@
+{
+  "district_id": "P3D03",
+  "district_name_ne": "दोलखा",
+  "district_name_en": "Dolakha",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भीमेश्वर",
+      "local_level_name_en": "Bhimeshwor",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 2, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 3, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 4, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 5, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 6, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 7, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 8, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"},
+        {"ward_no": 9, "ward_name_ne": "भीमेश्वर", "ward_name_en": "Bhimeshwor"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "जिरी",
+      "local_level_name_en": "Jiri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 2, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 3, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 4, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 5, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 6, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 7, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 8, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"},
+        {"ward_no": 9, "ward_name_ne": "जिरी", "ward_name_en": "Jiri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कालिन्चोक",
+      "local_level_name_en": "Kalinchok",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 2, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 3, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 4, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 5, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 6, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 7, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 8, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"},
+        {"ward_no": 9, "ward_name_ne": "कालिन्चोक", "ward_name_en": "Kalinchok"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मेलुङ",
+      "local_level_name_en": "Melung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 2, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 3, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 4, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 5, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 6, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"},
+        {"ward_no": 7, "ward_name_ne": "मेलुङ", "ward_name_en": "Melung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "वैतेश्वर",
+      "local_level_name_en": "Baiteshwar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 2, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 3, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 4, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 5, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 6, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 7, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"},
+        {"ward_no": 8, "ward_name_ne": "वैतेश्वर", "ward_name_en": "Baiteshwar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "शैलुङ",
+      "local_level_name_en": "Sailung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 2, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 3, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 4, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 5, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 6, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 7, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"},
+        {"ward_no": 8, "ward_name_ne": "शैलुङ", "ward_name_en": "Sailung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तामाकोशी",
+      "local_level_name_en": "Tamakoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 2, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 3, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 4, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 5, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 6, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"},
+        {"ward_no": 7, "ward_name_ne": "तामाकोशी", "ward_name_en": "Tamakoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गौरीशंकर",
+      "local_level_name_en": "Gaurishankar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 2, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 3, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 4, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 5, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 6, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 7, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 8, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"},
+        {"ward_no": 9, "ward_name_ne": "गौरीशंकर", "ward_name_en": "Gaurishankar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बिगु",
+      "local_level_name_en": "Bigu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 2, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 3, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 4, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 5, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 6, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 7, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"},
+        {"ward_no": 8, "ward_name_ne": "बिगु", "ward_name_en": "Bigu"}
+      ]
+    }
+  ]
+}

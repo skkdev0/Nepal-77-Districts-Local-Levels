@@ -1,0 +1,191 @@
+{
+  "district_id": "P6D06",
+  "district_name_ne": "दैलेख",
+  "district_name_en": "Dailekh",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 11,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दुल्लु",
+      "local_level_name_en": "Dullu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 2, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 3, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 4, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 5, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 6, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 7, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 8, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 9, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 10, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 11, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 12, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"},
+        {"ward_no": 13, "ward_name_ne": "दुल्लु", "ward_name_en": "Dullu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दैलेख",
+      "local_level_name_en": "Dailekh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 2, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 3, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 4, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 5, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 6, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 7, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 8, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 9, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 10, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"},
+        {"ward_no": 11, "ward_name_ne": "दैलेख", "ward_name_en": "Dailekh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चामुण्डा बिन्द्रासैनी",
+      "local_level_name_en": "Chamunda Bindrasaini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 2, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 3, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 4, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 5, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 6, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 7, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 8, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"},
+        {"ward_no": 9, "ward_name_ne": "चामुण्डा बिन्द्रासैनी", "ward_name_en": "Chamunda Bindrasaini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नौमूले",
+      "local_level_name_en": "Naumule",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 2, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 3, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 4, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 5, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 6, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 7, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"},
+        {"ward_no": 8, "ward_name_ne": "नौमूले", "ward_name_en": "Naumule"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भैरबी",
+      "local_level_name_en": "Bhairabi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 2, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 3, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 4, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 5, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 6, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"},
+        {"ward_no": 7, "ward_name_ne": "भैरबी", "ward_name_en": "Bhairabi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "महाबु",
+      "local_level_name_en": "Mahabu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"},
+        {"ward_no": 2, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"},
+        {"ward_no": 3, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"},
+        {"ward_no": 4, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"},
+        {"ward_no": 5, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"},
+        {"ward_no": 6, "ward_name_ne": "महाबु", "ward_name_en": "Mahabu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गुराँस",
+      "local_level_name_en": "Guranse",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 2, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 3, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 4, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 5, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 6, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 7, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"},
+        {"ward_no": 8, "ward_name_ne": "गुराँस", "ward_name_en": "Guranse"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भगवतीमाई",
+      "local_level_name_en": "Bhagawatimai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 2, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 3, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 4, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 5, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 6, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"},
+        {"ward_no": 7, "ward_name_ne": "भगवतीमाई", "ward_name_en": "Bhagawatimai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ठाँटीकाँध",
+      "local_level_name_en": "Thatikandh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 2, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 3, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 4, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 5, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 6, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"},
+        {"ward_no": 7, "ward_name_ne": "ठाँटीकाँध", "ward_name_en": "Thatikandh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नौमुले",
+      "local_level_name_en": "Naumule",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 2, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 3, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 4, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 5, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 6, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 7, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"},
+        {"ward_no": 8, "ward_name_ne": "नौमुले", "ward_name_en": "Naumule"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आठबीस",
+      "local_level_name_en": "Aathbis",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 2, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 3, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 4, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 5, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 6, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 7, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 8, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"},
+        {"ward_no": 9, "ward_name_ne": "आठबीस", "ward_name_en": "Aathbis"}
+      ]
+    }
+  ]
+}

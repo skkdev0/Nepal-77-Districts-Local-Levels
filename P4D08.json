@@ -1,0 +1,76 @@
+{
+  "district_id": "P4D08",
+  "district_name_ne": "मुस्ताङ",
+  "district_name_en": "Mustang",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 5,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "घरपझोङ",
+      "local_level_name_en": "Gharpajhong",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "घरपझोङ", "ward_name_en": "Gharpajhong"},
+        {"ward_no": 2, "ward_name_ne": "घरपझोङ", "ward_name_en": "Gharpajhong"},
+        {"ward_no": 3, "ward_name_ne": "घरपझोङ", "ward_name_en": "Gharpajhong"},
+        {"ward_no": 4, "ward_name_ne": "घरपझोङ", "ward_name_en": "Gharpajhong"},
+        {"ward_no": 5, "ward_name_ne": "घरपझोङ", "ward_name_en": "Gharpajhong"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "थासाङ",
+      "local_level_name_en": "Thasang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थासाङ", "ward_name_en": "Thasang"},
+        {"ward_no": 2, "ward_name_ne": "थासाङ", "ward_name_en": "Thasang"},
+        {"ward_no": 3, "ward_name_ne": "थासाङ", "ward_name_en": "Thasang"},
+        {"ward_no": 4, "ward_name_ne": "थासाङ", "ward_name_en": "Thasang"},
+        {"ward_no": 5, "ward_name_ne": "थासाङ", "ward_name_en": "Thasang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दामोदरकुण्ड हिमाल",
+      "local_level_name_en": "Damodarkunda Himal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दामोदरकुण्ड हिमाल", "ward_name_en": "Damodarkunda Himal"},
+        {"ward_no": 2, "ward_name_ne": "दामोदरकुण्ड हिमाल", "ward_name_en": "Damodarkunda Himal"},
+        {"ward_no": 3, "ward_name_ne": "दामोदरकुण्ड हिमाल", "ward_name_en": "Damodarkunda Himal"},
+        {"ward_no": 4, "ward_name_ne": "दामोदरकुण्ड हिमाल", "ward_name_en": "Damodarkunda Himal"},
+        {"ward_no": 5, "ward_name_ne": "दामोदरकुण्ड हिमाल", "ward_name_en": "Damodarkunda Himal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लो घेकर दामोदरकुण्ड",
+      "local_level_name_en": "Lo-Ghekar Damodarkunda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"},
+        {"ward_no": 2, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"},
+        {"ward_no": 3, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"},
+        {"ward_no": 4, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"},
+        {"ward_no": 5, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"},
+        {"ward_no": 6, "ward_name_ne": "लो घेकर दामोदरकुण्ड", "ward_name_en": "Lo-Ghekar Damodarkunda"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लोमान्थाङ",
+      "local_level_name_en": "Lomanthang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लोमान्थाङ", "ward_name_en": "Lomanthang"},
+        {"ward_no": 2, "ward_name_ne": "लोमान्थाङ", "ward_name_en": "Lomanthang"},
+        {"ward_no": 3, "ward_name_ne": "लोमान्थाङ", "ward_name_en": "Lomanthang"},
+        {"ward_no": 4, "ward_name_ne": "लोमान्थाङ", "ward_name_en": "Lomanthang"},
+        {"ward_no": 5, "ward_name_ne": "लोमान्थाङ", "ward_name_en": "Lomanthang"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "district_id": "P5D07",
+  "district_name_ne": "प्युठान",
+  "district_name_en": "Pyuthan",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "प्युठान",
+      "local_level_name_en": "Pyuthan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 2, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 3, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 4, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 5, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 6, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 7, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 8, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 9, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"},
+        {"ward_no": 10, "ward_name_ne": "प्युठान", "ward_name_en": "Pyuthan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "स्वर्गद्वारी",
+      "local_level_name_en": "Swargadwari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 2, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 3, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 4, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 5, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 6, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 7, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 8, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"},
+        {"ward_no": 9, "ward_name_ne": "स्वर्गद्वारी", "ward_name_en": "Swargadwari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गौमुखी",
+      "local_level_name_en": "Gaumukhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 2, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 3, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 4, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 5, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 6, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"},
+        {"ward_no": 7, "ward_name_ne": "गौमुखी", "ward_name_en": "Gaumukhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "झिम्रुक",
+      "local_level_name_en": "Jhimruk",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 2, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 3, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 4, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 5, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 6, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 7, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"},
+        {"ward_no": 8, "ward_name_ne": "झिम्रुक", "ward_name_en": "Jhimruk"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "माण्डवी",
+      "local_level_name_en": "Mandavi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माण्डवी", "ward_name_en": "Mandavi"},
+        {"ward_no": 2, "ward_name_ne": "माण्डवी", "ward_name_en": "Mandavi"},
+        {"ward_no": 3, "ward_name_ne": "माण्डवी", "ward_name_en": "Mandavi"},
+        {"ward_no": 4, "ward_name_ne": "माण्डवी", "ward_name_en": "Mandavi"},
+        {"ward_no": 5, "ward_name_ne": "माण्डवी", "ward_name_en": "Mandavi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ऐरावती",
+      "local_level_name_en": "Airawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"},
+        {"ward_no": 2, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"},
+        {"ward_no": 3, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"},
+        {"ward_no": 4, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"},
+        {"ward_no": 5, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"},
+        {"ward_no": 6, "ward_name_ne": "ऐरावती", "ward_name_en": "Airawati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मल्लरानी",
+      "local_level_name_en": "Mallarani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मल्लरानी", "ward_name_en": "Mallarani"},
+        {"ward_no": 2, "ward_name_ne": "मल्लरानी", "ward_name_en": "Mallarani"},
+        {"ward_no": 3, "ward_name_ne": "मल्लरानी", "ward_name_en": "Mallarani"},
+        {"ward_no": 4, "ward_name_ne": "मल्लरानी", "ward_name_en": "Mallarani"},
+        {"ward_no": 5, "ward_name_ne": "मल्लरानी", "ward_name_en": "Mallarani"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नौबहिनी",
+      "local_level_name_en": "Naubahini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 2, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 3, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 4, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 5, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 6, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 7, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"},
+        {"ward_no": 8, "ward_name_ne": "नौबहिनी", "ward_name_en": "Naubahini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सज्र्यक",
+      "local_level_name_en": "Sarumarani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"},
+        {"ward_no": 2, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"},
+        {"ward_no": 3, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"},
+        {"ward_no": 4, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"},
+        {"ward_no": 5, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"},
+        {"ward_no": 6, "ward_name_ne": "सज्र्यक", "ward_name_en": "Sarumarani"}
+      ]
+    }
+  ]
+}

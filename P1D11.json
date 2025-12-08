@@ -1,0 +1,126 @@
+{
+  "district_id": "P1D11",
+  "district_name_ne": "सोलुखुम्बु",
+  "district_name_en": "Solukhumbu",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सोलुदुधकुण्ड",
+      "local_level_name_en": "Solududhkunda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सल्लेरी", "ward_name_en": "Salleri"},
+        {"ward_no": 2, "ward_name_ne": "ताम्खर्क", "ward_name_en": "Tamkharka"},
+        {"ward_no": 3, "ward_name_ne": "नेचा बतासे", "ward_name_en": "Necha Batase"},
+        {"ward_no": 4, "ward_name_ne": "नेचा बतासे", "ward_name_en": "Necha Batase"},
+        {"ward_no": 5, "ward_name_ne": "जुभिङ", "ward_name_en": "Jubhing"},
+        {"ward_no": 6, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"},
+        {"ward_no": 7, "ward_name_ne": "टाक्सिन्दु", "ward_name_en": "Taksindu"},
+        {"ward_no": 8, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 9, "ward_name_ne": "काँगेल", "ward_name_en": "Kangel"},
+        {"ward_no": 10, "ward_name_ne": "लोकुप", "ward_name_en": "Lokup"},
+        {"ward_no": 11, "ward_name_ne": "ताम्खर्क", "ward_name_en": "Tamkharka"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खुम्बु पासाङल्हामु",
+      "local_level_name_en": "Khumbu Pasanglhamu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खुम्बु पासाङल्हामु", "ward_name_en": "Khumbu Pasanglhamu"},
+        {"ward_no": 2, "ward_name_ne": "खुम्बु पासाङल्हामु", "ward_name_en": "Khumbu Pasanglhamu"},
+        {"ward_no": 3, "ward_name_ne": "खुम्बु पासाङल्हामु", "ward_name_en": "Khumbu Pasanglhamu"},
+        {"ward_no": 4, "ward_name_ne": "खुम्बु पासाङल्हामु", "ward_name_en": "Khumbu Pasanglhamu"},
+        {"ward_no": 5, "ward_name_ne": "खुम्बु पासाङल्हामु", "ward_name_en": "Khumbu Pasanglhamu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दूधकोशी",
+      "local_level_name_en": "Dudhkoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 2, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 3, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 4, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 5, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 6, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"},
+        {"ward_no": 7, "ward_name_ne": "दूधकोशी", "ward_name_en": "Dudhkoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "थुलुङ दू्धकोशी",
+      "local_level_name_en": "Thulung Dudhkoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 2, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 3, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 4, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 5, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 6, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 7, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 8, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"},
+        {"ward_no": 9, "ward_name_ne": "थुलुङ दू्धकोशी", "ward_name_en": "Thulung Dudhkoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नेचा सल्यान",
+      "local_level_name_en": "Necha Salyan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नेचा सल्यान", "ward_name_en": "Necha Salyan"},
+        {"ward_no": 2, "ward_name_ne": "नेचा सल्यान", "ward_name_en": "Necha Salyan"},
+        {"ward_no": 3, "ward_name_ne": "नेचा सल्यान", "ward_name_en": "Necha Salyan"},
+        {"ward_no": 4, "ward_name_ne": "नेचा सल्यान", "ward_name_en": "Necha Salyan"},
+        {"ward_no": 5, "ward_name_ne": "नेचा सल्यान", "ward_name_en": "Necha Salyan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "महाकुलुङ",
+      "local_level_name_en": "Mahakulung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाकुलुङ", "ward_name_en": "Mahakulung"},
+        {"ward_no": 2, "ward_name_ne": "महाकुलुङ", "ward_name_en": "Mahakulung"},
+        {"ward_no": 3, "ward_name_ne": "महाकुलुङ", "ward_name_en": "Mahakulung"},
+        {"ward_no": 4, "ward_name_ne": "महाकुलुङ", "ward_name_en": "Mahakulung"},
+        {"ward_no": 5, "ward_name_ne": "महाकुलुङ", "ward_name_en": "Mahakulung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिखु पिके",
+      "local_level_name_en": "Likhu Pike",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिखु पिके", "ward_name_en": "Likhu Pike"},
+        {"ward_no": 2, "ward_name_ne": "लिखु पिके", "ward_name_en": "Likhu Pike"},
+        {"ward_no": 3, "ward_name_ne": "लिखु पिके", "ward_name_en": "Likhu Pike"},
+        {"ward_no": 4, "ward_name_ne": "लिखु पिके", "ward_name_en": "Likhu Pike"},
+        {"ward_no": 5, "ward_name_ne": "लिखु पिके", "ward_name_en": "Likhu Pike"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सोताङ",
+      "local_level_name_en": "Sotang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"},
+        {"ward_no": 2, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"},
+        {"ward_no": 3, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"},
+        {"ward_no": 4, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"},
+        {"ward_no": 5, "ward_name_ne": "सोताङ", "ward_name_en": "Sotang"}
+      ]
+    }
+  ]
+}

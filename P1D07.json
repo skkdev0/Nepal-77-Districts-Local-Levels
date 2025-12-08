@@ -1,0 +1,122 @@
+{
+  "district_id": "P1D07",
+  "district_name_ne": "धनकुटा",
+  "district_name_en": "Dhankuta",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "धनकुटा",
+      "local_level_name_en": "Dhankuta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 2, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 3, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 4, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 5, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 6, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 7, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 8, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 9, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"},
+        {"ward_no": 10, "ward_name_ne": "धनकुटा", "ward_name_en": "Dhankuta"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पाख्रीबास",
+      "local_level_name_en": "Pakhribas",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 2, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 3, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 4, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 5, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 6, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 7, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 8, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 9, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"},
+        {"ward_no": 10, "ward_name_ne": "पाख्रीबास", "ward_name_en": "Pakhribas"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "महाकाली",
+      "local_level_name_en": "Mahakali (Chhathar Mahakali)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 2, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 3, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 4, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 5, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 6, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छथर जोरपाटी",
+      "local_level_name_en": "Chhathar Jorpati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"},
+        {"ward_no": 2, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"},
+        {"ward_no": 3, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"},
+        {"ward_no": 4, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"},
+        {"ward_no": 5, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"},
+        {"ward_no": 6, "ward_name_ne": "हात्तिखर्क", "ward_name_en": "Hattikharka"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "साँगुरीगढी",
+      "local_level_name_en": "Sangurigadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 2, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 3, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 4, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 5, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 6, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 7, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 8, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 9, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"},
+        {"ward_no": 10, "ward_name_ne": "साँगुरीगढी", "ward_name_en": "Sangurigadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चौबिसे",
+      "local_level_name_en": "Chaubise",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 2, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 3, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 4, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 5, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 6, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"},
+        {"ward_no": 7, "ward_name_ne": "चौबिसे", "ward_name_en": "Chaubise"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सहीदभूमि",
+      "local_level_name_en": "Sahidbhumi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 2, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 3, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 4, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 5, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 6, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"},
+        {"ward_no": 7, "ward_name_ne": "सहीदभूमि", "ward_name_en": "Sahidbhumi"}
+      ]
+    }
+  ]
+}

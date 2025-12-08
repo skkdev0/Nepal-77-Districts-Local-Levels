@@ -1,0 +1,180 @@
+{
+  "district_id": "P1D13",
+  "district_name_ne": "खोटाङ",
+  "district_name_en": "Khotang",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दिक्तेल रुपाकोट मझुवागढी",
+      "local_level_name_en": "Diktel Rupakot Majhuwagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 2, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 3, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 4, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 5, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 6, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 7, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 8, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 9, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 10, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 11, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 12, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 13, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 14, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"},
+        {"ward_no": 15, "ward_name_ne": "दिक्तेल", "ward_name_en": "Diktel"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "हलेसी तुवाचुङ",
+      "local_level_name_en": "Halesi Tuwachung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 2, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 3, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 4, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 5, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 6, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 7, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 8, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 9, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 10, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"},
+        {"ward_no": 11, "ward_name_ne": "हलेसी", "ward_name_en": "Halesi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खोटेहाङ",
+      "local_level_name_en": "Khotehang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 2, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 3, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 4, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 5, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 6, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 7, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 8, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"},
+        {"ward_no": 9, "ward_name_ne": "खोटेहाङ", "ward_name_en": "Khotehang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दिप्रुङ चुइचुम्मा",
+      "local_level_name_en": "Diprung Chuichumma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 2, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 3, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 4, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 5, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 6, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"},
+        {"ward_no": 7, "ward_name_ne": "दिप्रुङ", "ward_name_en": "Diprung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ऐँसेलुखर्क",
+      "local_level_name_en": "Aiselukharka",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 2, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 3, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 4, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 5, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 6, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"},
+        {"ward_no": 7, "ward_name_ne": "ऐँसेलुखर्क", "ward_name_en": "Aiselukharka"}
+      ]
+    },
+{
+  "district_id": "P1D13",
+  "district_name_ne": "खोटाङ",
+  "district_name_en": "Khotang",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जनता",
+      "local_level_name_en": "Janta (Jantedhunga)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जनता", "ward_name_en": "Janta"},
+        {"ward_no": 2, "ward_name_ne": "जनता", "ward_name_en": "Janta"},
+        {"ward_no": 3, "ward_name_ne": "जनता", "ward_name_en": "Janta"},
+        {"ward_no": 4, "ward_name_ne": "जनता", "ward_name_en": "Janta"},
+        {"ward_no": 5, "ward_name_ne": "जनता", "ward_name_en": "Janta"},
+        {"ward_no": 6, "ward_name_ne": "जनता", "ward_name_en": "Janta"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "केपिलासगढी",
+      "local_level_name_en": "Kepilasgadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 2, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 3, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 4, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 5, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 6, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"},
+        {"ward_no": 7, "ward_name_ne": "केपिलासगढी", "ward_name_en": "Kepilasgadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बराहापोखरी",
+      "local_level_name_en": "Barahapokhari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 2, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 3, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 4, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 5, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 6, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"},
+        {"ward_no": 7, "ward_name_ne": "बराहापोखरी", "ward_name_en": "Barahapokhari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "साकेला",
+      "local_level_name_en": "Sakela",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साकेला", "ward_name_en": "Sakela"},
+        {"ward_no": 2, "ward_name_ne": "साकेला", "ward_name_en": "Sakela"},
+        {"ward_no": 3, "ward_name_ne": "साकेला", "ward_name_en": "Sakela"},
+        {"ward_no": 4, "ward_name_ne": "साकेला", "ward_name_en": "Sakela"},
+        {"ward_no": 5, "ward_name_ne": "साकेला", "ward_name_en": "Sakela"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रुपाकोट मझुवागढी",
+      "local_level_name_en": "Rupakot Majhuwagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 2, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 3, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 4, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 5, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 6, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"},
+        {"ward_no": 7, "ward_name_ne": "रुपाकोट मझुवागढी", "ward_name_en": "Rupakot Majhuwagadhi"}
+      ]
+    }
+  ]
+}
+

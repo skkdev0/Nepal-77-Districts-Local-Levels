@@ -1,0 +1,175 @@
+{
+  "district_id": "P7D09",
+  "district_name_ne": "कञ्चनपुर",
+  "district_name_en": "Kanchanpur",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "भीमदत्त",
+      "local_level_name_en": "Bhimdatta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 2, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 3, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 4, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 5, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 6, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 7, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 8, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 9, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 10, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 11, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 12, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 13, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 14, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 15, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 16, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 17, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 18, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"},
+        {"ward_no": 19, "ward_name_ne": "भीमदत्त", "ward_name_en": "Bhimdatta"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शुक्लाफाँटा",
+      "local_level_name_en": "Shuklaphanta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 2, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 3, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 4, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 5, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 6, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 7, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 8, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 9, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 10, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 11, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"},
+        {"ward_no": 12, "ward_name_ne": "शुक्लाफाँटा", "ward_name_en": "Shuklaphanta"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "वेदकोट",
+      "local_level_name_en": "Bedkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 2, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 3, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 4, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 5, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 6, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 7, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 8, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 9, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"},
+        {"ward_no": 10, "ward_name_ne": "वेदकोट", "ward_name_en": "Bedkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेल्डाँडी",
+      "local_level_name_en": "Beldandi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"},
+        {"ward_no": 2, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"},
+        {"ward_no": 3, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"},
+        {"ward_no": 4, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"},
+        {"ward_no": 5, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"},
+        {"ward_no": 6, "ward_name_ne": "बेल्डाँडी", "ward_name_en": "Beldandi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "महाकाली",
+      "local_level_name_en": "Mahakali Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 2, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 3, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 4, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 5, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 6, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 7, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 8, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 9, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"},
+        {"ward_no": 10, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali Municipality"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पुनर्वास",
+      "local_level_name_en": "Punarbash",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 2, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 3, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 4, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 5, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 6, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 7, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 8, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 9, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 10, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"},
+        {"ward_no": 11, "ward_name_ne": "पुनर्वास", "ward_name_en": "Punarbash"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेलौरी",
+      "local_level_name_en": "Belauri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 2, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 3, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 4, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 5, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 6, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 7, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 8, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 9, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"},
+        {"ward_no": 10, "ward_name_ne": "बेलौरी", "ward_name_en": "Belauri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लालझाडी",
+      "local_level_name_en": "Laljhadi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"},
+        {"ward_no": 2, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"},
+        {"ward_no": 3, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"},
+        {"ward_no": 4, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"},
+        {"ward_no": 5, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"},
+        {"ward_no": 6, "ward_name_ne": "लालझाडी", "ward_name_en": "Laljhadi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कृष्णपुर",
+      "local_level_name_en": "Krishnapur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 2, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 3, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 4, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 5, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 6, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 7, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 8, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"},
+        {"ward_no": 9, "ward_name_ne": "कृष्णपुर", "ward_name_en": "Krishnapur"}
+      ]
+    }
+  ]
+}

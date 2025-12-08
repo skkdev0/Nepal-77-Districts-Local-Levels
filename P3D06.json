@@ -1,0 +1,130 @@
+{
+  "district_id": "P3D06",
+  "district_name_ne": "ललितपुर",
+  "district_name_en": "Lalitpur",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 6,
+  "local_levels": [
+    {
+      "local_level_type_ne": "महानगरपालिका",
+      "local_level_type_en": "Metropolitan City",
+      "local_level_name_ne": "ललितपुर",
+      "local_level_name_en": "Lalitpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 2, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 3, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 4, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 5, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 6, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 7, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 8, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 9, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 10, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 11, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 12, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 13, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 14, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 15, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 16, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 17, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 18, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 19, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 20, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 21, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 22, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 23, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 24, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 25, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 26, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 27, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 28, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"},
+        {"ward_no": 29, "ward_name_ne": "ललितपुर", "ward_name_en": "Lalitpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गोदावरी",
+      "local_level_name_en": "Godawari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 2, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 3, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 4, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 5, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 6, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 7, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 8, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 9, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 10, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 11, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 12, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 13, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"},
+        {"ward_no": 14, "ward_name_ne": "गोदावरी", "ward_name_en": "Godawari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "महालक्ष्मी",
+      "local_level_name_en": "Mahalaxmi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 2, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 3, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 4, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 5, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 6, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 7, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 8, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 9, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"},
+        {"ward_no": 10, "ward_name_ne": "महालक्ष्मी", "ward_name_en": "Mahalaxmi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कोन्ज्योसोम",
+      "local_level_name_en": "Konjyosom",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कोन्ज्योसोम", "ward_name_en": "Konjyosom"},
+        {"ward_no": 2, "ward_name_ne": "कोन्ज्योसोम", "ward_name_en": "Konjyosom"},
+        {"ward_no": 3, "ward_name_ne": "कोन्ज्योसोम", "ward_name_en": "Konjyosom"},
+        {"ward_no": 4, "ward_name_ne": "कोन्ज्योसोम", "ward_name_en": "Konjyosom"},
+        {"ward_no": 5, "ward_name_ne": "कोन्ज्योसोम", "ward_name_en": "Konjyosom"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बागमती",
+      "local_level_name_en": "Bagmati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 2, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 3, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 4, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 5, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 6, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"},
+        {"ward_no": 7, "ward_name_ne": "बागमती", "ward_name_en": "Bagmati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पुल्चोकी",
+      "local_level_name_en": "Phulchoki",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 2, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 3, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 4, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 5, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 6, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"},
+        {"ward_no": 7, "ward_name_ne": "पुल्चोकी", "ward_name_en": "Phulchoki"}
+      ]
+    }
+  ]
+}

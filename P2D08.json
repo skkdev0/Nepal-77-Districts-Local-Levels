@@ -1,0 +1,243 @@
+{
+  "district_id": "P2D08",
+  "district_name_ne": "पर्सा",
+  "district_name_en": "Parsa",
+  "province_name_ne": "मधेश प्रदेश",
+  "province_name_en": "Madhesh Province",
+  "local_levels_count": 14,
+  "local_levels": [
+    {
+      "local_level_type_ne": "महानगरपालिका",
+      "local_level_type_en": "Metropolitan City",
+      "local_level_name_ne": "वीरगंज",
+      "local_level_name_en": "Birgunj",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 2, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 3, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 4, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 5, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 6, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 7, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 8, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 9, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 10, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 11, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 12, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 13, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 14, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 15, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 16, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 17, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 18, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 19, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 20, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 21, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 22, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 23, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 24, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 25, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 26, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 27, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 28, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 29, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 30, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 31, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"},
+        {"ward_no": 32, "ward_name_ne": "वीरगंज", "ward_name_en": "Birgunj"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पोखरिया",
+      "local_level_name_en": "Pokhariya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 2, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 3, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 4, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 5, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 6, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 7, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 8, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 9, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"},
+        {"ward_no": 10, "ward_name_ne": "पोखरिया", "ward_name_en": "Pokhariya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पर्सागढी",
+      "local_level_name_en": "Parsagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 2, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 3, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 4, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 5, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 6, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 7, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 8, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 9, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 10, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"}
+      ]
+    },
+        {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बहुदरमाई",
+      "local_level_name_en": "Bahudarmai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 2, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 3, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 4, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 5, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 6, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 7, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 8, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"},
+        {"ward_no": 9, "ward_name_ne": "बहुदरमाई", "ward_name_en": "Bahudarmai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पर्सागढी",
+      "local_level_name_en": "Parsagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 2, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 3, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 4, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 5, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 6, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"},
+        {"ward_no": 7, "ward_name_ne": "पर्सागढी", "ward_name_en": "Parsagadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "जिरा भवानी",
+      "local_level_name_en": "Jira Bhawani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 2, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 3, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 4, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 5, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 6, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 7, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"},
+        {"ward_no": 8, "ward_name_ne": "जिरा भवानी", "ward_name_en": "Jira Bhawani"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सखुवा प्रसौनी",
+      "local_level_name_en": "Sakhuwa Prasauni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 2, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 3, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 4, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 5, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 6, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 7, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 8, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"},
+        {"ward_no": 9, "ward_name_ne": "सखुवा प्रसौनी", "ward_name_en": "Sakhuwa Prasauni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ठोरी",
+      "local_level_name_en": "Thori",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ठोरी", "ward_name_en": "Thori"},
+        {"ward_no": 2, "ward_name_ne": "ठोरी", "ward_name_en": "Thori"},
+        {"ward_no": 3, "ward_name_ne": "ठोरी", "ward_name_en": "Thori"},
+        {"ward_no": 4, "ward_name_ne": "ठोरी", "ward_name_en": "Thori"},
+        {"ward_no": 5, "ward_name_ne": "ठोरी", "ward_name_en": "Thori"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कालिकामाई",
+      "local_level_name_en": "Kalikamai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालिकामाई", "ward_name_en": "Kalikamai"},
+        {"ward_no": 2, "ward_name_ne": "कालिकामाई", "ward_name_en": "Kalikamai"},
+        {"ward_no": 3, "ward_name_ne": "कालिकामाई", "ward_name_en": "Kalikamai"},
+        {"ward_no": 4, "ward_name_ne": "कालिकामाई", "ward_name_en": "Kalikamai"},
+        {"ward_no": 5, "ward_name_ne": "कालिकामाई", "ward_name_en": "Kalikamai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पटेर्वा सुगौली",
+      "local_level_name_en": "Paterwa Sugauli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पटेर्वा सुगौली", "ward_name_en": "Paterwa Sugauli"},
+        {"ward_no": 2, "ward_name_ne": "पटेर्वा सुगौली", "ward_name_en": "Paterwa Sugauli"},
+        {"ward_no": 3, "ward_name_ne": "पटेर्वा सुगौली", "ward_name_en": "Paterwa Sugauli"},
+        {"ward_no": 4, "ward_name_ne": "पटेर्वा सुगौली", "ward_name_en": "Paterwa Sugauli"},
+        {"ward_no": 5, "ward_name_ne": "पटेर्वा सुगौली", "ward_name_en": "Paterwa Sugauli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छिपहरमाई",
+      "local_level_name_en": "Chhipaharmai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छिपहरमाई", "ward_name_en": "Chhipaharmai"},
+        {"ward_no": 2, "ward_name_ne": "छिपहरमाई", "ward_name_en": "Chhipaharmai"},
+        {"ward_no": 3, "ward_name_ne": "छिपहरमाई", "ward_name_en": "Chhipaharmai"},
+        {"ward_no": 4, "ward_name_ne": "छिपहरमाई", "ward_name_en": "Chhipaharmai"},
+        {"ward_no": 5, "ward_name_ne": "छिपहरमाई", "ward_name_en": "Chhipaharmai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जगन्नाथपुर",
+      "local_level_name_en": "Jagarnathpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"},
+        {"ward_no": 2, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"},
+        {"ward_no": 3, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"},
+        {"ward_no": 4, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"},
+        {"ward_no": 5, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"},
+        {"ward_no": 6, "ward_name_ne": "जगन्नाथपुर", "ward_name_en": "Jagarnathpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बिन्दबासिनी",
+      "local_level_name_en": "Bindabasini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बिन्दबासिनी", "ward_name_en": "Bindabasini"},
+        {"ward_no": 2, "ward_name_ne": "बिन्दबासिनी", "ward_name_en": "Bindabasini"},
+        {"ward_no": 3, "ward_name_ne": "बिन्दबासिनी", "ward_name_en": "Bindabasini"},
+        {"ward_no": 4, "ward_name_ne": "बिन्दबासिनी", "ward_name_en": "Bindabasini"},
+        {"ward_no": 5, "ward_name_ne": "बिन्दबासिनी", "ward_name_en": "Bindabasini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "धोबनी",
+      "local_level_name_en": "Dhobini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धोबनी", "ward_name_en": "Dhobini"},
+        {"ward_no": 2, "ward_name_ne": "धोबनी", "ward_name_en": "Dhobini"},
+        {"ward_no": 3, "ward_name_ne": "धोबनी", "ward_name_en": "Dhobini"},
+        {"ward_no": 4, "ward_name_ne": "धोबनी", "ward_name_en": "Dhobini"},
+        {"ward_no": 5, "ward_name_ne": "धोबनी", "ward_name_en": "Dhobini"}
+      ]
+    }
+  ]
+}

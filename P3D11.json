@@ -1,0 +1,76 @@
+{
+  "district_id": "P3D11",
+  "district_name_ne": "रसुवा",
+  "district_name_en": "Rasuwa",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 5,
+  "local_levels": [
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "उत्तरगया",
+      "local_level_name_en": "Uttargaya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "उत्तरगया", "ward_name_en": "Uttargaya"},
+        {"ward_no": 2, "ward_name_ne": "उत्तरगया", "ward_name_en": "Uttargaya"},
+        {"ward_no": 3, "ward_name_ne": "उत्तरगया", "ward_name_en": "Uttargaya"},
+        {"ward_no": 4, "ward_name_ne": "उत्तरगया", "ward_name_en": "Uttargaya"},
+        {"ward_no": 5, "ward_name_ne": "उत्तरगया", "ward_name_en": "Uttargaya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कालिका",
+      "local_level_name_en": "Kalika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 2, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 3, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 4, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 5, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गोसाईकुण्ड",
+      "local_level_name_en": "Gosaikunda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"},
+        {"ward_no": 2, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"},
+        {"ward_no": 3, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"},
+        {"ward_no": 4, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"},
+        {"ward_no": 5, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"},
+        {"ward_no": 6, "ward_name_ne": "गोसाईकुण्ड", "ward_name_en": "Gosaikunda"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आमाछोदिङ्मो",
+      "local_level_name_en": "Aamachhodingmo",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आमाछोदिङ्मो", "ward_name_en": "Aamachhodingmo"},
+        {"ward_no": 2, "ward_name_ne": "आमाछोदिङ्मो", "ward_name_en": "Aamachhodingmo"},
+        {"ward_no": 3, "ward_name_ne": "आमाछोदिङ्मो", "ward_name_en": "Aamachhodingmo"},
+        {"ward_no": 4, "ward_name_ne": "आमाछोदिङ्मो", "ward_name_en": "Aamachhodingmo"},
+        {"ward_no": 5, "ward_name_ne": "आमाछोदिङ्मो", "ward_name_en": "Aamachhodingmo"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तेमाल",
+      "local_level_name_en": "Temal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तेमाल", "ward_name_en": "Temal"},
+        {"ward_no": 2, "ward_name_ne": "तेमाल", "ward_name_en": "Temal"},
+        {"ward_no": 3, "ward_name_ne": "तेमाल", "ward_name_en": "Temal"},
+        {"ward_no": 4, "ward_name_ne": "तेमाल", "ward_name_en": "Temal"},
+        {"ward_no": 5, "ward_name_ne": "तेमाल", "ward_name_en": "Temal"}
+      ]
+    }
+  ]
+}

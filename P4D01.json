@@ -1,0 +1,193 @@
+{
+  "district_id": "P4D01",
+  "district_name_ne": "गोरखा",
+  "district_name_en": "Gorkha",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 11,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गोरखा",
+      "local_level_name_en": "Gorkha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 2, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 3, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 4, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 5, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 6, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 7, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 8, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 9, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 10, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 11, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 12, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 13, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"},
+        {"ward_no": 14, "ward_name_ne": "गोरखा", "ward_name_en": "Gorkha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पालुङटार",
+      "local_level_name_en": "Palungtar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 2, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 3, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 4, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 5, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 6, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 7, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 8, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 9, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 10, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"},
+        {"ward_no": 11, "ward_name_ne": "पालुङटार", "ward_name_en": "Palungtar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "धार्चे",
+      "local_level_name_en": "Dharche",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 2, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 3, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 4, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 5, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 6, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"},
+        {"ward_no": 7, "ward_name_ne": "धार्चे", "ward_name_en": "Dharche"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चुमनुब्री",
+      "local_level_name_en": "Chumanubri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 2, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 3, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 4, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 5, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 6, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"},
+        {"ward_no": 7, "ward_name_ne": "चुमनुब्री", "ward_name_en": "Chumanubri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भीमसेन थापा",
+      "local_level_name_en": "Bhimsen Thapa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 2, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 3, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 4, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 5, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 6, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 7, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"},
+        {"ward_no": 8, "ward_name_ne": "भीमसेन थापा", "ward_name_en": "Bhimsen Thapa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आरुघाट",
+      "local_level_name_en": "Aarughat",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 2, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 3, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 4, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 5, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 6, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 7, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 8, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 9, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 10, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"},
+        {"ward_no": 11, "ward_name_ne": "आरुघाट", "ward_name_en": "Aarughat"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिरानचोक",
+      "local_level_name_en": "Siranchowk",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 2, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 3, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 4, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 5, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 6, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 7, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"},
+        {"ward_no": 8, "ward_name_ne": "सिरानचोक", "ward_name_en": "Siranchowk"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अजिरकोट",
+      "local_level_name_en": "Ajirkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अजिरकोट", "ward_name_en": "Ajirkot"},
+        {"ward_no": 2, "ward_name_ne": "अजिरकोट", "ward_name_en": "Ajirkot"},
+        {"ward_no": 3, "ward_name_ne": "अजिरकोट", "ward_name_en": "Ajirkot"},
+        {"ward_no": 4, "ward_name_ne": "अजिरकोट", "ward_name_en": "Ajirkot"},
+        {"ward_no": 5, "ward_name_ne": "अजिरकोट", "ward_name_en": "Ajirkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "शहीद लखन",
+      "local_level_name_en": "Shahid Lakhan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 2, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 3, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 4, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 5, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 6, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 7, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"},
+        {"ward_no": 8, "ward_name_ne": "शहीद लखन", "ward_name_en": "Shahid Lakhan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गण्डकी",
+      "local_level_name_en": "Gandaki",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 2, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 3, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 4, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 5, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 6, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 7, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"},
+        {"ward_no": 8, "ward_name_ne": "गण्डकी", "ward_name_en": "Gandaki"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुलिकोट",
+      "local_level_name_en": "Sullikot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 2, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 3, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 4, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 5, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 6, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 7, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"},
+        {"ward_no": 8, "ward_name_ne": "सुलिकोट", "ward_name_en": "Sullikot"}
+      ]
+    }
+  ]
+}

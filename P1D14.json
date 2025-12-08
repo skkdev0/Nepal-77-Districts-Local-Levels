@@ -1,0 +1,149 @@
+{
+  "district_id": "P1D14",
+  "district_name_ne": "उदयपुर",
+  "district_name_en": "Udayapur",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "त्रियुगा",
+      "local_level_name_en": "Triyuga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जलजले", "ward_name_en": "Jaljale"},
+        {"ward_no": 2, "ward_name_ne": "जलजले", "ward_name_en": "Jaljale"},
+        {"ward_no": 3, "ward_name_ne": "मोतिगडा", "ward_name_en": "Motigada"},
+        {"ward_no": 4, "ward_name_ne": "चुहाडे", "ward_name_en": "Chuhade"},
+        {"ward_no": 5, "ward_name_ne": "देउरी", "ward_name_en": "Deuri"},
+        {"ward_no": 6, "ward_name_ne": "जोगिदह", "ward_name_en": "Jogidaha"},
+        {"ward_no": 7, "ward_name_ne": "जोगिदह", "ward_name_en": "Jogidaha"},
+        {"ward_no": 8, "ward_name_ne": "जोगिदह", "ward_name_en": "Jogidaha"},
+        {"ward_no": 9, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 10, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 11, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 12, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 13, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 14, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 15, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"},
+        {"ward_no": 16, "ward_name_ne": "पोखरी", "ward_name_en": "Pokhari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कटारी",
+      "local_level_name_en": "Katari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 2, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 3, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 4, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 5, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 6, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 7, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 8, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 9, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 10, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 11, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 12, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 13, "ward_name_ne": "कटारी", "ward_name_en": "Katari"},
+        {"ward_no": 14, "ward_name_ne": "कटारी", "ward_name_en": "Katari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेल्टार बसहा",
+      "local_level_name_en": "Beltar Bashaha (Chaudandigadhi)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 2, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 3, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 4, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 5, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 6, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 7, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 8, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 9, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"},
+        {"ward_no": 10, "ward_name_ne": "बेल्टार बसहा", "ward_name_en": "Beltar Bashaha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेलका",
+      "local_level_name_en": "Belaka",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 2, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 3, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 4, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 5, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 6, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 7, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 8, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"},
+        {"ward_no": 9, "ward_name_ne": "बेलका", "ward_name_en": "Belaka"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रौतामाई",
+      "local_level_name_en": "Rautamai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 2, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 3, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 4, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 5, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 6, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 7, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"},
+        {"ward_no": 8, "ward_name_ne": "रौतामाई", "ward_name_en": "Rautamai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिम्बासे",
+      "local_level_name_en": "Limbuse (Tapli)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिम्बासे", "ward_name_en": "Limbuse"},
+        {"ward_no": 2, "ward_name_ne": "लिम्बासे", "ward_name_en": "Limbuse"},
+        {"ward_no": 3, "ward_name_ne": "लिम्बासे", "ward_name_en": "Limbuse"},
+        {"ward_no": 4, "ward_name_ne": "लिम्बासे", "ward_name_en": "Limbuse"},
+        {"ward_no": 5, "ward_name_ne": "लिम्बासे", "ward_name_en": "Limbuse"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "उदयपुरगढी",
+      "local_level_name_en": "Udayapurgadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 2, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 3, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 4, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 5, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 6, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 7, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"},
+        {"ward_no": 8, "ward_name_ne": "उदयपुरगढी", "ward_name_en": "Udayapurgadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ससुराली",
+      "local_level_name_en": "Sasurali (Sunkoshi)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ससुराली", "ward_name_en": "Sasurali"},
+        {"ward_no": 2, "ward_name_ne": "ससुराली", "ward_name_en": "Sasurali"},
+        {"ward_no": 3, "ward_name_ne": "ससुराली", "ward_name_en": "Sasurali"},
+        {"ward_no": 4, "ward_name_ne": "ससुराली", "ward_name_en": "Sasurali"},
+        {"ward_no": 5, "ward_name_ne": "ससुराली", "ward_name_en": "Sasurali"}
+      ]
+    }
+  ]
+}

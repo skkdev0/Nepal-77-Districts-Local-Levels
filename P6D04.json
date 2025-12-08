@@ -1,0 +1,135 @@
+{
+  "district_id": "P6D04",
+  "district_name_ne": "जुम्ला",
+  "district_name_en": "Jumla",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "चन्दननाथ",
+      "local_level_name_en": "Chandannath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 2, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 3, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 4, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 5, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 6, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 7, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 8, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 9, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"},
+        {"ward_no": 10, "ward_name_ne": "चन्दननाथ", "ward_name_en": "Chandannath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गुठीचौर",
+      "local_level_name_en": "Guthichaur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गुठीचौर", "ward_name_en": "Guthichaur"},
+        {"ward_no": 2, "ward_name_ne": "गुठीचौर", "ward_name_en": "Guthichaur"},
+        {"ward_no": 3, "ward_name_ne": "गुठीचौर", "ward_name_en": "Guthichaur"},
+        {"ward_no": 4, "ward_name_ne": "गुठीचौर", "ward_name_en": "Guthichaur"},
+        {"ward_no": 5, "ward_name_ne": "गुठीचौर", "ward_name_en": "Guthichaur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तातोपानी",
+      "local_level_name_en": "Tatopani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 2, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 3, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 4, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 5, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 6, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 7, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"},
+        {"ward_no": 8, "ward_name_ne": "तातोपानी", "ward_name_en": "Tatopani"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिंजा",
+      "local_level_name_en": "Sinja",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 2, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 3, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 4, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 5, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 6, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"},
+        {"ward_no": 7, "ward_name_ne": "सिंजा", "ward_name_en": "Sinja"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हिम",
+      "local_level_name_en": "Hima",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 2, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 3, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 4, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 5, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 6, "ward_name_ne": "हिम", "ward_name_en": "Hima"},
+        {"ward_no": 7, "ward_name_ne": "हिम", "ward_name_en": "Hima"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कनकासुन्दरी",
+      "local_level_name_en": "Kankasundari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 2, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 3, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 4, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 5, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 6, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 7, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"},
+        {"ward_no": 8, "ward_name_ne": "कनकासुन्दरी", "ward_name_en": "Kankasundari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तिला",
+      "local_level_name_en": "Tila",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 2, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 3, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 4, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 5, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 6, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 7, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 8, "ward_name_ne": "तिला", "ward_name_en": "Tila"},
+        {"ward_no": 9, "ward_name_ne": "तिला", "ward_name_en": "Tila"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पातारासी",
+      "local_level_name_en": "Patarasi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 2, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 3, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 4, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 5, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 6, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"},
+        {"ward_no": 7, "ward_name_ne": "पातारासी", "ward_name_en": "Patarasi"}
+      ]
+    }
+  ]
+}

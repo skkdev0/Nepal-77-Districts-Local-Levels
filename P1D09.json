@@ -1,0 +1,166 @@
+{
+  "district_id": "P1D09",
+  "district_name_ne": "सङ्खुवासभा",
+  "district_name_en": "Sankhuwasabha",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "खाँदबारी",
+      "local_level_name_en": "Khandbari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 2, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 3, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 4, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 5, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 6, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 7, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 8, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 9, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 10, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"},
+        {"ward_no": 11, "ward_name_ne": "खाँदबारी", "ward_name_en": "Khandbari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "धर्मदेवी",
+      "local_level_name_en": "Dharmadevi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छ्याकुट", "ward_name_en": "Chhyakut"},
+        {"ward_no": 2, "ward_name_ne": "नेपालटार", "ward_name_en": "Nepaltar"},
+        {"ward_no": 3, "ward_name_ne": "मादीमूलखर्क", "ward_name_en": "Madimulkharak"},
+        {"ward_no": 4, "ward_name_ne": "याफु", "ward_name_en": "Yaphu"},
+        {"ward_no": 5, "ward_name_ne": "आङ्गा", "ward_name_en": "Aanga"},
+        {"ward_no": 6, "ward_name_ne": "हातीखर्क", "ward_name_en": "Hatikharka"},
+        {"ward_no": 7, "ward_name_ne": "मादीमूलखर्क", "ward_name_en": "Madimulkharak"},
+        {"ward_no": 8, "ward_name_ne": "याफु", "ward_name_en": "Yaphu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "चेनचिर",
+      "local_level_name_en": "Chainpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 2, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 3, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 4, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 5, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 6, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 7, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 8, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 9, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"},
+        {"ward_no": 10, "ward_name_ne": "चेनचिर", "ward_name_en": "Chainpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मादी",
+      "local_level_name_en": "Madi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 2, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 3, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 4, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 5, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 6, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 7, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 8, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 9, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 10, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 11, "ward_name_ne": "मादी", "ward_name_en": "Madi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पाँचखपन",
+      "local_level_name_en": "Panchkhapan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 2, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 3, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 4, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 5, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 6, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 7, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 8, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"},
+        {"ward_no": 9, "ward_name_ne": "पाँचखपन", "ward_name_en": "Panchkhapan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भोटखोला",
+      "local_level_name_en": "Bhotkhola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भोटखोला", "ward_name_en": "Bhotkhola"},
+        {"ward_no": 2, "ward_name_ne": "भोटखोला", "ward_name_en": "Bhotkhola"},
+        {"ward_no": 3, "ward_name_ne": "भोटखोला", "ward_name_en": "Bhotkhola"},
+        {"ward_no": 4, "ward_name_ne": "भोटखोला", "ward_name_en": "Bhotkhola"},
+        {"ward_no": 5, "ward_name_ne": "भोटखोला", "ward_name_en": "Bhotkhola"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मकालु",
+      "local_level_name_en": "Makalu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"},
+        {"ward_no": 2, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"},
+        {"ward_no": 3, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"},
+        {"ward_no": 4, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"},
+        {"ward_no": 5, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"},
+        {"ward_no": 6, "ward_name_ne": "मकालु", "ward_name_en": "Makalu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चिचिला",
+      "local_level_name_en": "Chichila",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चिचिला", "ward_name_en": "Chichila"},
+        {"ward_no": 2, "ward_name_ne": "चिचिला", "ward_name_en": "Chichila"},
+        {"ward_no": 3, "ward_name_ne": "चिचिला", "ward_name_en": "Chichila"},
+        {"ward_no": 4, "ward_name_ne": "चिचिला", "ward_name_en": "Chichila"},
+        {"ward_no": 5, "ward_name_ne": "चिचिला", "ward_name_en": "Chichila"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिम्रिङ",
+      "local_level_name_en": "Simring (Silichong)",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिम्रिङ", "ward_name_en": "Simring"},
+        {"ward_no": 2, "ward_name_ne": "सिम्रिङ", "ward_name_en": "Simring"},
+        {"ward_no": 3, "ward_name_ne": "सिम्रिङ", "ward_name_en": "Simring"},
+        {"ward_no": 4, "ward_name_ne": "सिम्रिङ", "ward_name_en": "Simring"},
+        {"ward_no": 5, "ward_name_ne": "सिम्रिङ", "ward_name_en": "Simring"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सभापोखरी",
+      "local_level_name_en": "Sabapokhari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"},
+        {"ward_no": 2, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"},
+        {"ward_no": 3, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"},
+        {"ward_no": 4, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"},
+        {"ward_no": 5, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"},
+        {"ward_no": 6, "ward_name_ne": "सभापोखरी", "ward_name_en": "Sabapokhari"}
+      ]
+    }
+  ]
+}

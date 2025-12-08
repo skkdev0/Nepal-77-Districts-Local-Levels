@@ -1,0 +1,175 @@
+{
+  "district_id": "P4D10",
+  "district_name_ne": "बाग्लुङ",
+  "district_name_en": "Baglung",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बाग्लुङ",
+      "local_level_name_en": "Baglung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 2, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 3, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 4, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 5, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 6, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 7, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 8, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 9, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 10, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 11, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 12, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 13, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"},
+        {"ward_no": 14, "ward_name_ne": "बाग्लुङ", "ward_name_en": "Baglung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "जैमिनी",
+      "local_level_name_en": "Jaimini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 2, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 3, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 4, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 5, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 6, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 7, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 8, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 9, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"},
+        {"ward_no": 10, "ward_name_ne": "जैमिनी", "ward_name_en": "Jaimini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "ढोरपाटन",
+      "local_level_name_en": "Dhorpatan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 2, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 3, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 4, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 5, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 6, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 7, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 8, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"},
+        {"ward_no": 9, "ward_name_ne": "ढोरपाटन", "ward_name_en": "Dhorpatan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गल्कोट",
+      "local_level_name_en": "Galkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 2, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 3, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 4, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 5, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 6, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 7, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 8, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 9, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 10, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"},
+        {"ward_no": 11, "ward_name_ne": "गल्कोट", "ward_name_en": "Galkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बडीगाड",
+      "local_level_name_en": "Badigad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 2, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 3, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 4, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 5, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 6, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 7, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 8, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 9, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"},
+        {"ward_no": 10, "ward_name_ne": "बडीगाड", "ward_name_en": "Badigad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कठिनौला",
+      "local_level_name_en": "Kathinauala",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"},
+        {"ward_no": 2, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"},
+        {"ward_no": 3, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"},
+        {"ward_no": 4, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"},
+        {"ward_no": 5, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"},
+        {"ward_no": 6, "ward_name_ne": "कठिनौला", "ward_name_en": "Kathinauala"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ताराखोला",
+      "local_level_name_en": "Tarakhola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ताराखोला", "ward_name_en": "Tarakhola"},
+        {"ward_no": 2, "ward_name_ne": "ताराखोला", "ward_name_en": "Tarakhola"},
+        {"ward_no": 3, "ward_name_ne": "ताराखोला", "ward_name_en": "Tarakhola"},
+        {"ward_no": 4, "ward_name_ne": "ताराखोला", "ward_name_en": "Tarakhola"},
+        {"ward_no": 5, "ward_name_ne": "ताराखोला", "ward_name_en": "Tarakhola"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "निसीखोला",
+      "local_level_name_en": "Nisikhola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 2, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 3, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 4, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 5, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 6, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"},
+        {"ward_no": 7, "ward_name_ne": "निसीखोला", "ward_name_en": "Nisikhola"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सरे",
+      "local_level_name_en": "Sare",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सरे", "ward_name_en": "Sare"},
+        {"ward_no": 2, "ward_name_ne": "सरे", "ward_name_en": "Sare"},
+        {"ward_no": 3, "ward_name_ne": "सरे", "ward_name_en": "Sare"},
+        {"ward_no": 4, "ward_name_ne": "सरे", "ward_name_en": "Sare"},
+        {"ward_no": 5, "ward_name_ne": "सरे", "ward_name_en": "Sare"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "काठेखोला",
+      "local_level_name_en": "Kathekhola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 2, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 3, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 4, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 5, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 6, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 7, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"},
+        {"ward_no": 8, "ward_name_ne": "काठेखोला", "ward_name_en": "Kathekhola"}
+      ]
+    }
+  ]
+}

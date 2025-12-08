@@ -1,0 +1,334 @@
+{
+  "district_id": "P2D03",
+  "district_name_ne": "धनुषा",
+  "district_name_en": "Dhanusha",
+  "province_name_ne": "मधेश प्रदेश",
+  "province_name_en": "Madhesh Province",
+  "local_levels_count": 18,
+  "local_levels": [
+    {
+      "local_level_type_ne": "महानगरपालिका",
+      "local_level_type_en": "Metropolitan City",
+      "local_level_name_ne": "जनकपुरधाम",
+      "local_level_name_en": "Janakpurdham",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 2, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 3, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 4, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 5, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 6, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 7, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 8, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 9, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 10, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 11, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 12, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 13, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 14, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 15, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 16, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 17, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 18, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 19, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 20, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 21, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 22, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 23, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 24, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"},
+        {"ward_no": 25, "ward_name_ne": "जनकपुरधाम", "ward_name_en": "Janakpurdham"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "धनुषाधाम",
+      "local_level_name_en": "Dhanushadham",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 2, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 3, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 4, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 5, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 6, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 7, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 8, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 9, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 10, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"},
+        {"ward_no": 11, "ward_name_ne": "धनुषाधाम", "ward_name_en": "Dhanushadham"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मिथिला",
+      "local_level_name_en": "Mithila",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 2, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 3, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 4, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 5, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 6, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 7, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 8, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 9, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 10, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"},
+        {"ward_no": 11, "ward_name_ne": "मिथिला", "ward_name_en": "Mithila"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बटेश्वर",
+      "local_level_name_en": "Bateshwor",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बटेश्वर", "ward_name_en": "Bateshwor"},
+        {"ward_no": 2, "ward_name_ne": "बटेश्वर", "ward_name_en": "Bateshwor"},
+        {"ward_no": 3, "ward_name_ne": "बटेश्वर", "ward_name_en": "Bateshwor"},
+        {"ward_no": 4, "ward_name_ne": "बटेश्वर", "ward_name_en": "Bateshwor"},
+        {"ward_no": 5, "ward_name_ne": "बटेश्वर", "ward_name_en": "Bateshwor"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "क्षिरेश्वरनाथ",
+      "local_level_name_en": "Kshireshornath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 2, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 3, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 4, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 5, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 6, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 7, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 8, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 9, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"},
+        {"ward_no": 10, "ward_name_ne": "क्षिरेश्वरनाथ", "ward_name_en": "Kshireshornath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कमला",
+      "local_level_name_en": "Kamala",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 2, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 3, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 4, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 5, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 6, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 7, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 8, "ward_name_ne": "कमला", "ward_name_en": "Kamala"},
+        {"ward_no": 9, "ward_name_ne": "कमला", "ward_name_en": "Kamala"}
+      ]
+    },
+        {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शहीदनगर",
+      "local_level_name_en": "Shahidnagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 2, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 3, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 4, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 5, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 6, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 7, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 8, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"},
+        {"ward_no": 9, "ward_name_ne": "शहीदनगर", "ward_name_en": "Shahidnagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गणेशमान चारनाथ",
+      "local_level_name_en": "Ganeshman Charnath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 2, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 3, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 4, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 5, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 6, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 7, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 8, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 9, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 10, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"},
+        {"ward_no": 11, "ward_name_ne": "गणेशमान चारनाथ", "ward_name_en": "Ganeshman Charnath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "हनुमाननगर कंकालनी",
+      "local_level_name_en": "Hanumannagar Kankalini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 2, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 3, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 4, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 5, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 6, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 7, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 8, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 9, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 10, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 11, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 12, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 13, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"},
+        {"ward_no": 14, "ward_name_ne": "हनुमाननगर", "ward_name_en": "Hanumannagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "औरही",
+      "local_level_name_en": "Aurahi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 2, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 3, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 4, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 5, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 6, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 7, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 8, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 9, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मिथिला बिहारी",
+      "local_level_name_en": "Mithila Bihari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 2, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 3, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 4, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 5, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 6, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 7, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 8, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 9, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"},
+        {"ward_no": 10, "ward_name_ne": "मिथिला बिहारी", "ward_name_en": "Mithila Bihari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बिदेह",
+      "local_level_name_en": "Bideha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 2, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 3, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 4, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 5, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 6, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 7, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 8, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"},
+        {"ward_no": 9, "ward_name_ne": "बिदेह", "ward_name_en": "Bideha"}
+      ]
+    },
+        {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जनकनन्दिनी",
+      "local_level_name_en": "Janaknandini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 2, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 3, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 4, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 5, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 6, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"},
+        {"ward_no": 7, "ward_name_ne": "जनकनन्दिनी", "ward_name_en": "Janaknandini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लक्ष्मिनियाँ",
+      "local_level_name_en": "Laxminiya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 2, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 3, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 4, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 5, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 6, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"},
+        {"ward_no": 7, "ward_name_ne": "लक्ष्मिनियाँ", "ward_name_en": "Laxminiya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मुखियापट्टी मुसहरनिया",
+      "local_level_name_en": "Mukhiyapatti Musaharniya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"},
+        {"ward_no": 2, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"},
+        {"ward_no": 3, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"},
+        {"ward_no": 4, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"},
+        {"ward_no": 5, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"},
+        {"ward_no": 6, "ward_name_ne": "मुखियापट्टी मुसहरनिया", "ward_name_en": "Mukhiyapatti Musaharniya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "औरही गाउँपालिका",
+      "local_level_name_en": "Aurahi Rural Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 2, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 3, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 4, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"},
+        {"ward_no": 5, "ward_name_ne": "औरही", "ward_name_en": "Aurahi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सबैला",
+      "local_level_name_en": "Sabaila",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 2, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 3, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 4, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 5, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 6, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 7, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 8, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 9, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 10, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 11, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 12, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"},
+        {"ward_no": 13, "ward_name_ne": "सबैला", "ward_name_en": "Sabaila"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हँसपुर",
+      "local_level_name_en": "Hansapur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 2, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 3, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 4, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 5, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 6, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 7, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 8, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"},
+        {"ward_no": 9, "ward_name_ne": "हँसपुर", "ward_name_en": "Hansapur"}
+      ]
+    }
+  ]
+}

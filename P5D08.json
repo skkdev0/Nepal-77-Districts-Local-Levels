@@ -1,0 +1,161 @@
+{
+  "district_id": "P5D08",
+  "district_name_ne": "रोल्पा",
+  "district_name_en": "Rolpa",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रोल्पा",
+      "local_level_name_en": "Rolpa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 2, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 3, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 4, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 5, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 6, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 7, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 8, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 9, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 10, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "त्रिवेणी",
+      "local_level_name_en": "Triveni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 2, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 3, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 4, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 5, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 6, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 7, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "परिवर्तन",
+      "local_level_name_en": "Paribartan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"},
+        {"ward_no": 2, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"},
+        {"ward_no": 3, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"},
+        {"ward_no": 4, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"},
+        {"ward_no": 5, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"},
+        {"ward_no": 6, "ward_name_ne": "परिवर्तन", "ward_name_en": "Paribartan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "माडी",
+      "local_level_name_en": "Madi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 2, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 3, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 4, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 5, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 6, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 7, "ward_name_ne": "माडी", "ward_name_en": "Madi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गंगादेव",
+      "local_level_name_en": "Gangadev",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 2, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 3, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 4, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 5, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 6, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"},
+        {"ward_no": 7, "ward_name_ne": "गंगादेव", "ward_name_en": "Gangadev"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुनछहरी",
+      "local_level_name_en": "Sunchhahari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 2, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 3, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 4, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 5, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 6, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"},
+        {"ward_no": 7, "ward_name_ne": "सुनछहरी", "ward_name_en": "Sunchhahari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "थवाङ",
+      "local_level_name_en": "Thabang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थवाङ", "ward_name_en": "Thabang"},
+        {"ward_no": 2, "ward_name_ne": "थवाङ", "ward_name_en": "Thabang"},
+        {"ward_no": 3, "ward_name_ne": "थवाङ", "ward_name_en": "Thabang"},
+        {"ward_no": 4, "ward_name_ne": "थवाङ", "ward_name_en": "Thabang"},
+        {"ward_no": 5, "ward_name_ne": "थवाङ", "ward_name_en": "Thabang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लुङ्ग्री",
+      "local_level_name_en": "Lungri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 2, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 3, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 4, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 5, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 6, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"},
+        {"ward_no": 7, "ward_name_ne": "लुङ्ग्री", "ward_name_en": "Lungri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रोल्पा",
+      "local_level_name_en": "Rolpa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 2, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 3, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 4, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 5, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 6, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 7, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"},
+        {"ward_no": 8, "ward_name_ne": "रोल्पा", "ward_name_en": "Rolpa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुवर्णावती",
+      "local_level_name_en": "Suvarnawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 2, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 3, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 4, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 5, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 6, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"},
+        {"ward_no": 7, "ward_name_ne": "सुवर्णावती", "ward_name_en": "Suvarnawati"}
+      ]
+    }
+  ]
+}

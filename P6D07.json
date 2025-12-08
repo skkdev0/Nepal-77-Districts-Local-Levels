@@ -1,0 +1,140 @@
+{
+  "district_id": "P6D07",
+  "district_name_ne": "जाजरकोट",
+  "district_name_en": "Jajarkot",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भेरी",
+      "local_level_name_en": "Bheri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 2, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 3, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 4, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 5, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 6, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 7, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 8, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 9, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 10, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 11, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 12, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"},
+        {"ward_no": 13, "ward_name_ne": "भेरी", "ward_name_en": "Bheri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "छेडागाड",
+      "local_level_name_en": "Chhedagad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 2, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 3, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 4, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 5, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 6, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 7, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 8, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 9, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 10, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 11, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 12, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"},
+        {"ward_no": 13, "ward_name_ne": "छेडागाड", "ward_name_en": "Chhedagad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शिवालय",
+      "local_level_name_en": "Shivalaya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 2, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 3, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 4, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 5, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 6, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 7, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 8, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 9, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 10, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"},
+        {"ward_no": 11, "ward_name_ne": "शिवालय", "ward_name_en": "Shivalaya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कुसे",
+      "local_level_name_en": "Kuse",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 2, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 3, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 4, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 5, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 6, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 7, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 8, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"},
+        {"ward_no": 9, "ward_name_ne": "कुसे", "ward_name_en": "Kuse"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जुनीचाँदे",
+      "local_level_name_en": "Junichande",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 2, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 3, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 4, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 5, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 6, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 7, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 8, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 9, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 10, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"},
+        {"ward_no": 11, "ward_name_ne": "जुनीचाँदे", "ward_name_en": "Junichande"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बारेकोट",
+      "local_level_name_en": "Barekot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 2, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 3, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 4, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 5, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 6, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 7, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 8, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"},
+        {"ward_no": 9, "ward_name_ne": "बारेकोट", "ward_name_en": "Barekot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिम्बा",
+      "local_level_name_en": "Limba",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 2, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 3, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 4, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 5, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 6, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 7, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 8, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"}
+      ]
+    }
+  ]
+}

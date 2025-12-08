@@ -1,0 +1,133 @@
+{
+  "district_id": "P5D12",
+  "district_name_ne": "बर्दिया",
+  "district_name_en": "Bardiya",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गुलरिया",
+      "local_level_name_en": "Gulariya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 2, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 3, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 4, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 5, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 6, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 7, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 8, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 9, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 10, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 11, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 12, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"},
+        {"ward_no": 13, "ward_name_ne": "गुलरिया", "ward_name_en": "Gulariya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मधुवन",
+      "local_level_name_en": "Madhuwan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 2, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 3, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 4, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 5, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 6, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 7, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 8, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"},
+        {"ward_no": 9, "ward_name_ne": "मधुवन", "ward_name_en": "Madhuwan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "राजापुर",
+      "local_level_name_en": "Rajapur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 2, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 3, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 4, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 5, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 6, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 7, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 8, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 9, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"},
+        {"ward_no": 10, "ward_name_ne": "राजापुर", "ward_name_en": "Rajapur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "ठाकुरबाबा",
+      "local_level_name_en": "Thakur Baba",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 2, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 3, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 4, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 5, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 6, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 7, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 8, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"},
+        {"ward_no": 9, "ward_name_ne": "ठाकुरबाबा", "ward_name_en": "Thakur Baba"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बढैयाताल",
+      "local_level_name_en": "Badhaiyatal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 2, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 3, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 4, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 5, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 6, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 7, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 8, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"},
+        {"ward_no": 9, "ward_name_ne": "बढैयाताल", "ward_name_en": "Badhaiyatal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बारबर्दिया",
+      "local_level_name_en": "Barbardiya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 2, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 3, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 4, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 5, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 6, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 7, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 8, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 9, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 10, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"},
+        {"ward_no": 11, "ward_name_ne": "बारबर्दिया", "ward_name_en": "Barbardiya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गेरुवा",
+      "local_level_name_en": "Geruwa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"},
+        {"ward_no": 2, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"},
+        {"ward_no": 3, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"},
+        {"ward_no": 4, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"},
+        {"ward_no": 5, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"},
+        {"ward_no": 6, "ward_name_ne": "गेरुवा", "ward_name_en": "Geruwa"}
+      ]
+    }
+  ]
+}

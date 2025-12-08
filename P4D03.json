@@ -1,0 +1,175 @@
+{
+  "district_id": "P4D03",
+  "district_name_ne": "तनहुँ",
+  "district_name_en": "Tanahu",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "व्यास",
+      "local_level_name_en": "Byas",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 2, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 3, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 4, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 5, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 6, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 7, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 8, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 9, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 10, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 11, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 12, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 13, "ward_name_ne": "व्यास", "ward_name_en": "Byas"},
+        {"ward_no": 14, "ward_name_ne": "व्यास", "ward_name_en": "Byas"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शुक्लागण्डकी",
+      "local_level_name_en": "Shuklagandaki",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 2, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 3, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 4, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 5, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 6, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 7, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 8, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 9, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 10, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 11, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"},
+        {"ward_no": 12, "ward_name_ne": "शुक्लागण्डकी", "ward_name_en": "Shuklagandaki"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भानु",
+      "local_level_name_en": "Bhanu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 2, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 3, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 4, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 5, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 6, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 7, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 8, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 9, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 10, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 11, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 12, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"},
+        {"ward_no": 13, "ward_name_ne": "भानु", "ward_name_en": "Bhanu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भिरकोट",
+      "local_level_name_en": "Bhirkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 2, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 3, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 4, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 5, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 6, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 7, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 8, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"},
+        {"ward_no": 9, "ward_name_ne": "भिरकोट", "ward_name_en": "Bhirkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "देवघाट",
+      "local_level_name_en": "Devghat",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "देवघाट", "ward_name_en": "Devghat"},
+        {"ward_no": 2, "ward_name_ne": "देवघाट", "ward_name_en": "Devghat"},
+        {"ward_no": 3, "ward_name_ne": "देवघाट", "ward_name_en": "Devghat"},
+        {"ward_no": 4, "ward_name_ne": "देवघाट", "ward_name_en": "Devghat"},
+        {"ward_no": 5, "ward_name_ne": "देवघाट", "ward_name_en": "Devghat"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रिसिङ",
+      "local_level_name_en": "Rishing",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 2, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 3, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 4, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 5, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 6, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 7, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"},
+        {"ward_no": 8, "ward_name_ne": "रिसिङ", "ward_name_en": "Rishing"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "घिरिङ",
+      "local_level_name_en": "Ghiring",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "घिरिङ", "ward_name_en": "Ghiring"},
+        {"ward_no": 2, "ward_name_ne": "घिरिङ", "ward_name_en": "Ghiring"},
+        {"ward_no": 3, "ward_name_ne": "घिरिङ", "ward_name_en": "Ghiring"},
+        {"ward_no": 4, "ward_name_ne": "घिरिङ", "ward_name_en": "Ghiring"},
+        {"ward_no": 5, "ward_name_ne": "घिरिङ", "ward_name_en": "Ghiring"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "म्याग्दे",
+      "local_level_name_en": "Myagde",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 2, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 3, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 4, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 5, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 6, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"},
+        {"ward_no": 7, "ward_name_ne": "म्याग्दे", "ward_name_en": "Myagde"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बन्दीपुर",
+      "local_level_name_en": "Bandipur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"},
+        {"ward_no": 2, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"},
+        {"ward_no": 3, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"},
+        {"ward_no": 4, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"},
+        {"ward_no": 5, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"},
+        {"ward_no": 6, "ward_name_ne": "बन्दीपुर", "ward_name_en": "Bandipur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आँबुखैरेनी",
+      "local_level_name_en": "Aanbukhaireni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"},
+        {"ward_no": 2, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"},
+        {"ward_no": 3, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"},
+        {"ward_no": 4, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"},
+        {"ward_no": 5, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"},
+        {"ward_no": 6, "ward_name_ne": "आँबुखैरेनी", "ward_name_en": "Aanbukhaireni"}
+      ]
+    }
+  ]
+}

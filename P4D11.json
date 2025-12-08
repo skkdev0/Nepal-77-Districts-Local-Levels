@@ -1,0 +1,167 @@
+{
+  "district_id": "P4D11",
+  "district_name_ne": "पूर्वी नवलपरासी (नवलपुर)",
+  "district_name_en": "Nawalparasi (Bardaghat Susta East)",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कावासोती",
+      "local_level_name_en": "Kawassoti",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 2, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 3, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 4, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 5, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 6, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 7, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 8, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 9, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 10, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 11, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 12, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 13, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 14, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 15, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 16, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"},
+        {"ward_no": 17, "ward_name_ne": "कावासोती", "ward_name_en": "Kawassoti"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मध्यबिन्दु",
+      "local_level_name_en": "Madhyabindu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 2, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 3, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 4, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 5, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 6, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 7, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 8, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 9, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 10, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 11, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 12, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 13, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 14, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"},
+        {"ward_no": 15, "ward_name_ne": "मध्यबिन्दु", "ward_name_en": "Madhyabindu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "देवचुली",
+      "local_level_name_en": "Devchuli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 2, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 3, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 4, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 5, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 6, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 7, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 8, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 9, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 10, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 11, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 12, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 13, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 14, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 15, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 16, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"},
+        {"ward_no": 17, "ward_name_ne": "देवचुली", "ward_name_en": "Devchuli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गैंडाकोट",
+      "local_level_name_en": "Gaindakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 2, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 3, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 4, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 5, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 6, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 7, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 8, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 9, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 10, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 11, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 12, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 13, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 14, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 15, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 16, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 17, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"},
+        {"ward_no": 18, "ward_name_ne": "गैंडाकोट", "ward_name_en": "Gaindakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बुलिङटार",
+      "local_level_name_en": "Bulingtar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"},
+        {"ward_no": 2, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"},
+        {"ward_no": 3, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"},
+        {"ward_no": 4, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"},
+        {"ward_no": 5, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"},
+        {"ward_no": 6, "ward_name_ne": "बुलिङटार", "ward_name_en": "Bulingtar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बौदीकाली",
+      "local_level_name_en": "Baudikali",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"},
+        {"ward_no": 2, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"},
+        {"ward_no": 3, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"},
+        {"ward_no": 4, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"},
+        {"ward_no": 5, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"},
+        {"ward_no": 6, "ward_name_ne": "बौदीकाली", "ward_name_en": "Baudikali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हुप्सेकोट",
+      "local_level_name_en": "Hupsekot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 2, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 3, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 4, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 5, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 6, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"},
+        {"ward_no": 7, "ward_name_ne": "हुप्सेकोट", "ward_name_en": "Hupsekot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "विनयी त्रिवेणी",
+      "local_level_name_en": "Binayi Tribeni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 2, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 3, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 4, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 5, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 6, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"},
+        {"ward_no": 7, "ward_name_ne": "विनयी त्रिवेणी", "ward_name_en": "Binayi Tribeni"}
+      ]
+    }
+  ]
+}

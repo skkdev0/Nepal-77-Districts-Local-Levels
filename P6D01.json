@@ -1,0 +1,135 @@
+{
+  "district_id": "P6D01",
+  "district_name_ne": "डोल्पा",
+  "district_name_en": "Dolpa",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "ठुली भेरी",
+      "local_level_name_en": "Thuli Bheri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 2, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 3, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 4, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 5, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 6, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 7, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 8, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 9, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 10, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"},
+        {"ward_no": 11, "ward_name_ne": "ठुली भेरी", "ward_name_en": "Thuli Bheri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "डोल्पो बुद्ध",
+      "local_level_name_en": "Dolpo Buddha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"},
+        {"ward_no": 2, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"},
+        {"ward_no": 3, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"},
+        {"ward_no": 4, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"},
+        {"ward_no": 5, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"},
+        {"ward_no": 6, "ward_name_ne": "डोल्पो बुद्ध", "ward_name_en": "Dolpo Buddha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "शे फोक्सुन्डो",
+      "local_level_name_en": "She Phoksundo",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"},
+        {"ward_no": 2, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"},
+        {"ward_no": 3, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"},
+        {"ward_no": 4, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"},
+        {"ward_no": 5, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"},
+        {"ward_no": 6, "ward_name_ne": "शे फोक्सुन्डो", "ward_name_en": "She Phoksundo"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छार्का ताङसोङ",
+      "local_level_name_en": "Chharka Tangsong",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"},
+        {"ward_no": 2, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"},
+        {"ward_no": 3, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"},
+        {"ward_no": 4, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"},
+        {"ward_no": 5, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"},
+        {"ward_no": 6, "ward_name_ne": "छार्का ताङसोङ", "ward_name_en": "Chharka Tangsong"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कागकोट",
+      "local_level_name_en": "Kagkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"},
+        {"ward_no": 2, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"},
+        {"ward_no": 3, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"},
+        {"ward_no": 4, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"},
+        {"ward_no": 5, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"},
+        {"ward_no": 6, "ward_name_ne": "कागकोट", "ward_name_en": "Kagkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मुड्केचुला",
+      "local_level_name_en": "Mudkechula",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 2, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 3, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 4, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 5, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 6, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 7, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 8, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"},
+        {"ward_no": 9, "ward_name_ne": "मुड्केचुला", "ward_name_en": "Mudkechula"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जगदुल्ला",
+      "local_level_name_en": "Jagadulla",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"},
+        {"ward_no": 2, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"},
+        {"ward_no": 3, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"},
+        {"ward_no": 4, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"},
+        {"ward_no": 5, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"},
+        {"ward_no": 6, "ward_name_ne": "जगदुल्ला", "ward_name_en": "Jagadulla"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "त्रिपुरासुन्दरी",
+      "local_level_name_en": "Tripurasundari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 2, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 3, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 4, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 5, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 6, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 7, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 8, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 9, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 10, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 11, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"}
+      ]
+    }
+  ]
+}

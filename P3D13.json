@@ -1,0 +1,164 @@
+{
+  "district_id": "P3D13",
+  "district_name_ne": "चितवन",
+  "district_name_en": "Chitwan",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "महानगरपालिका",
+      "local_level_type_en": "Metropolitan City",
+      "local_level_name_ne": "भरतपुर",
+      "local_level_name_en": "Bharatpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 2, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 3, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 4, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 5, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 6, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 7, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 8, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 9, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 10, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 11, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 12, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 13, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 14, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 15, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 16, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 17, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 18, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 19, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 20, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 21, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 22, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 23, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 24, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 25, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 26, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 27, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 28, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"},
+        {"ward_no": 29, "ward_name_ne": "भरतपुर", "ward_name_en": "Bharatpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रत्ननगर",
+      "local_level_name_en": "Ratnanagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 2, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 3, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 4, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 5, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 6, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 7, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 8, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 9, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 10, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 11, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 12, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 13, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 14, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 15, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"},
+        {"ward_no": 16, "ward_name_ne": "रत्ननगर", "ward_name_en": "Ratnanagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कालिका",
+      "local_level_name_en": "Kalika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 2, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 3, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 4, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 5, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 6, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 7, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 8, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 9, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 10, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"},
+        {"ward_no": 11, "ward_name_ne": "कालिका", "ward_name_en": "Kalika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "खैरहनी",
+      "local_level_name_en": "Khairahani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 2, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 3, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 4, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 5, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 6, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 7, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 8, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 9, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 10, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 11, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 12, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"},
+        {"ward_no": 13, "ward_name_ne": "खैरहनी", "ward_name_en": "Khairahani"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "माडी",
+      "local_level_name_en": "Madi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 2, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 3, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 4, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 5, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 6, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 7, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 8, "ward_name_ne": "माडी", "ward_name_en": "Madi"},
+        {"ward_no": 9, "ward_name_ne": "माडी", "ward_name_en": "Madi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "राप्ती",
+      "local_level_name_en": "Rapti",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 2, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 3, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 4, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 5, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 6, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 7, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 8, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 9, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 10, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 11, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 12, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"},
+        {"ward_no": 13, "ward_name_ne": "राप्ती", "ward_name_en": "Rapti"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "इच्छाकामना",
+      "local_level_name_en": "Ichhakamana",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 2, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 3, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 4, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 5, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 6, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"},
+        {"ward_no": 7, "ward_name_ne": "इच्छाकामना", "ward_name_en": "Ichhakamana"}
+      ]
+    }
+  ]
+}

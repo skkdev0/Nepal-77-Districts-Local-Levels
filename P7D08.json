@@ -1,0 +1,151 @@
+{
+  "district_id": "P7D08",
+  "district_name_ne": "बाजुरा",
+  "district_name_en": "Bajura",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बडीमालिका",
+      "local_level_name_en": "Badimalika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 2, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 3, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 4, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 5, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 6, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 7, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 8, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"},
+        {"ward_no": 9, "ward_name_ne": "बडीमालिका", "ward_name_en": "Badimalika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "त्रिवेणी",
+      "local_level_name_en": "Triveni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 2, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 3, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 4, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 5, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 6, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 7, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 8, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 9, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बुढीगंगा",
+      "local_level_name_en": "Budhiganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 2, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 3, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 4, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 5, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 6, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 7, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 8, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 9, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"},
+        {"ward_no": 10, "ward_name_ne": "बुढीगंगा", "ward_name_en": "Budhiganga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बुढीनन्दा",
+      "local_level_name_en": "Budhinanda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 2, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 3, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 4, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 5, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 6, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 7, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 8, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 9, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"},
+        {"ward_no": 10, "ward_name_ne": "बुढीनन्दा", "ward_name_en": "Budhinanda"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हिमाली",
+      "local_level_name_en": "Himali",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 2, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 3, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 4, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 5, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 6, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"},
+        {"ward_no": 7, "ward_name_ne": "हिमाली", "ward_name_en": "Himali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गौमुल",
+      "local_level_name_en": "Gaumul",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"},
+        {"ward_no": 2, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"},
+        {"ward_no": 3, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"},
+        {"ward_no": 4, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"},
+        {"ward_no": 5, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"},
+        {"ward_no": 6, "ward_name_ne": "गौमुल", "ward_name_en": "Gaumul"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "स्वामीकार्तिक खापर",
+      "local_level_name_en": "Swamikartik Khapar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "स्वामीकार्तिक खापर", "ward_name_en": "Swamikartik Khapar"},
+        {"ward_no": 2, "ward_name_ne": "स्वामीकार्तिक खापर", "ward_name_en": "Swamikartik Khapar"},
+        {"ward_no": 3, "ward_name_ne": "स्वामीकार्तिक खापर", "ward_name_en": "Swamikartik Khapar"},
+        {"ward_no": 4, "ward_name_ne": "स्वामीकार्तिक खापर", "ward_name_en": "Swamikartik Khapar"},
+        {"ward_no": 5, "ward_name_ne": "स्वामीकार्तिक खापर", "ward_name_en": "Swamikartik Khapar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छेडेदह",
+      "local_level_name_en": "Chhededaha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 2, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 3, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 4, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 5, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 6, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"},
+        {"ward_no": 7, "ward_name_ne": "छेडेदह", "ward_name_en": "Chhededaha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जगन्नाथ",
+      "local_level_name_en": "Jagannath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"},
+        {"ward_no": 2, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"},
+        {"ward_no": 3, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"},
+        {"ward_no": 4, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"},
+        {"ward_no": 5, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"},
+        {"ward_no": 6, "ward_name_ne": "जगन्नाथ", "ward_name_en": "Jagannath"}
+      ]
+    }
+  ]
+}

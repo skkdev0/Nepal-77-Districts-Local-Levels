@@ -1,0 +1,70 @@
+{
+  "district_id": "P4D09",
+  "district_name_ne": "मनाङ",
+  "district_name_en": "Manang",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 4,
+  "local_levels": [
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चामे",
+      "local_level_name_en": "Chame",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चामे", "ward_name_en": "Chame"},
+        {"ward_no": 2, "ward_name_ne": "चामे", "ward_name_en": "Chame"},
+        {"ward_no": 3, "ward_name_ne": "चामे", "ward_name_en": "Chame"},
+        {"ward_no": 4, "ward_name_ne": "चामे", "ward_name_en": "Chame"},
+        {"ward_no": 5, "ward_name_ne": "चामे", "ward_name_en": "Chame"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नार्पाभूमि",
+      "local_level_name_en": "Narpabhumi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नार्पाभूमि", "ward_name_en": "Narpabhumi"},
+        {"ward_no": 2, "ward_name_ne": "नार्पाभूमि", "ward_name_en": "Narpabhumi"},
+        {"ward_no": 3, "ward_name_ne": "नार्पाभूमि", "ward_name_en": "Narpabhumi"},
+        {"ward_no": 4, "ward_name_ne": "नार्पाभूमि", "ward_name_en": "Narpabhumi"},
+        {"ward_no": 5, "ward_name_ne": "नार्पाभूमि", "ward_name_en": "Narpabhumi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मनाङ ङिस्याङ",
+      "local_level_name_en": "Manang Ngisyang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 2, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 3, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 4, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 5, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 6, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 7, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 8, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"},
+        {"ward_no": 9, "ward_name_ne": "मनाङ ङिस्याङ", "ward_name_en": "Manang Ngisyang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नासोँ",
+      "local_level_name_en": "Nason",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 2, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 3, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 4, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 5, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 6, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 7, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 8, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"},
+        {"ward_no": 9, "ward_name_ne": "नासोँ", "ward_name_en": "Nason"}
+      ]
+    }
+  ]
+}

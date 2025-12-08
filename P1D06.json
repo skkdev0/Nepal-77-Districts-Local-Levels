@@ -1,0 +1,230 @@
+{
+  "district_id": "P1D06",
+  "district_name_ne": "सुनसरी",
+  "district_name_en": "Sunsari",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 12,
+  "local_levels": [
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "धरान",
+      "local_level_name_en": "Dharan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 2, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 3, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 4, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 5, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 6, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 7, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 8, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 9, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 10, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 11, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 12, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 13, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 14, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 15, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 16, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 17, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 18, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 19, "ward_name_ne": "धरान", "ward_name_en": "Dharan"},
+        {"ward_no": 20, "ward_name_ne": "धरान", "ward_name_en": "Dharan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "इटहरी",
+      "local_level_name_en": "Itahari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 2, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 3, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 4, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 5, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 6, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 7, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 8, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 9, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 10, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 11, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 12, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 13, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 14, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 15, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 16, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 17, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 18, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 19, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"},
+        {"ward_no": 20, "ward_name_ne": "इटहरी", "ward_name_en": "Itahari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "इनरुवा",
+      "local_level_name_en": "Inaruwa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 2, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 3, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 4, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 5, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 6, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 7, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 8, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 9, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"},
+        {"ward_no": 10, "ward_name_ne": "इनरुवा", "ward_name_en": "Inaruwa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दुहबी",
+      "local_level_name_en": "Duhabi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 2, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 3, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 4, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 5, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 6, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 7, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 8, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 9, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 10, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 11, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"},
+        {"ward_no": 12, "ward_name_ne": "दुहबी", "ward_name_en": "Duhabi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रामधुनी-भासी",
+      "local_level_name_en": "Ramdhuni-Bhasina",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 2, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 3, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 4, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 5, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 6, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 7, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 8, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"},
+        {"ward_no": 9, "ward_name_ne": "रामधुनी", "ward_name_en": "Ramdhuni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बराहक्षेत्र",
+      "local_level_name_en": "Barahakshetra",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 2, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 3, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 4, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 5, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 6, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 7, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 8, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 9, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 10, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"},
+        {"ward_no": 11, "ward_name_ne": "बराहक्षेत्र", "ward_name_en": "Barahakshetra"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कोशी",
+      "local_level_name_en": "Koshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 2, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 3, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 4, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 5, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 6, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 7, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"},
+        {"ward_no": 8, "ward_name_ne": "कोशी", "ward_name_en": "Koshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गढी",
+      "local_level_name_en": "Gadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"},
+        {"ward_no": 2, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"},
+        {"ward_no": 3, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"},
+        {"ward_no": 4, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"},
+        {"ward_no": 5, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"},
+        {"ward_no": 6, "ward_name_ne": "गढी", "ward_name_en": "Gadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "देवानगञ्ज",
+      "local_level_name_en": "Dewanganj",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 2, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 3, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 4, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 5, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 6, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"},
+        {"ward_no": 7, "ward_name_ne": "देवानगञ्ज", "ward_name_en": "Dewanganj"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "भोक्राहा नरसिंह",
+      "local_level_name_en": "Bhokaha Narsingh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 2, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 3, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 4, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 5, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 6, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 7, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"},
+        {"ward_no": 8, "ward_name_ne": "भोक्राहा नरसिंह", "ward_name_en": "Bhokaha Narsingh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हरिनगर",
+      "local_level_name_en": "Harinagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 2, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 3, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 4, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 5, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 6, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"},
+        {"ward_no": 7, "ward_name_ne": "हरिनगर", "ward_name_en": "Harinagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बर्जु",
+      "local_level_name_en": "Barju",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"},
+        {"ward_no": 2, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"},
+        {"ward_no": 3, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"},
+        {"ward_no": 4, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"},
+        {"ward_no": 5, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"},
+        {"ward_no": 6, "ward_name_ne": "बर्जु", "ward_name_en": "Barju"}
+      ]
+    }
+  ]
+}

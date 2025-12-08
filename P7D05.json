@@ -1,0 +1,175 @@
+{
+  "district_id": "P7D05",
+  "district_name_ne": "बैतडी",
+  "district_name_en": "Baitadi",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "दशरथचन्द",
+      "local_level_name_en": "Dasharathchand",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 2, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 3, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 4, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 5, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 6, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 7, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 8, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 9, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 10, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"},
+        {"ward_no": 11, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पाटन",
+      "local_level_name_en": "Patan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 2, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 3, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 4, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 5, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 6, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 7, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 8, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 9, "ward_name_ne": "पाटन", "ward_name_en": "Patan"},
+        {"ward_no": 10, "ward_name_ne": "पाटन", "ward_name_en": "Patan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मेलौली",
+      "local_level_name_en": "Melouli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 2, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 3, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 4, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 5, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 6, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 7, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 8, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"},
+        {"ward_no": 9, "ward_name_ne": "मेलौली", "ward_name_en": "Melouli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पुर्चौडी",
+      "local_level_name_en": "Puchardi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 2, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 3, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 4, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 5, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 6, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 7, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 8, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 9, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"},
+        {"ward_no": 10, "ward_name_ne": "पुर्चौडी", "ward_name_en": "Puchardi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिगास",
+      "local_level_name_en": "Sigas",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 2, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 3, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 4, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 5, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 6, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 7, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 8, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"},
+        {"ward_no": 9, "ward_name_ne": "सिगास", "ward_name_en": "Sigas"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुर्नया",
+      "local_level_name_en": "Surnaya",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 2, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 3, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 4, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 5, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 6, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 7, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"},
+        {"ward_no": 8, "ward_name_ne": "सुर्नया", "ward_name_en": "Surnaya"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दोगडा केदार",
+      "local_level_name_en": "Dogadakedar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 2, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 3, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 4, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 5, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 6, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 7, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"},
+        {"ward_no": 8, "ward_name_ne": "दोगडा केदार", "ward_name_en": "Dogadakedar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पञ्चेश्वर",
+      "local_level_name_en": "Pancheshwar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"},
+        {"ward_no": 2, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"},
+        {"ward_no": 3, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"},
+        {"ward_no": 4, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"},
+        {"ward_no": 5, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"},
+        {"ward_no": 6, "ward_name_ne": "पञ्चेश्वर", "ward_name_en": "Pancheshwar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "शिवनाथ",
+      "local_level_name_en": "Shivanath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"},
+        {"ward_no": 2, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"},
+        {"ward_no": 3, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"},
+        {"ward_no": 4, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"},
+        {"ward_no": 5, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"},
+        {"ward_no": 6, "ward_name_ne": "शिवनाथ", "ward_name_en": "Shivanath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दशरथचन्द",
+      "local_level_name_en": "Dasharathchand Rural Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 2, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 3, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 4, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 5, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 6, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 7, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"},
+        {"ward_no": 8, "ward_name_ne": "दशरथचन्द", "ward_name_en": "Dasharathchand Rural Municipality"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "district_id": "P3D04",
+  "district_name_ne": "सिन्धुपाल्चोक",
+  "district_name_en": "Sindhupalchok",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 12,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "चौतारा साँगाचोकगढी",
+      "local_level_name_en": "Chautara Sangachokgadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 2, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 3, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 4, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 5, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 6, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 7, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 8, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 9, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 10, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 11, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 12, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 13, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"},
+        {"ward_no": 14, "ward_name_ne": "चौतारा साँगाचोकगढी", "ward_name_en": "Chautara Sangachokgadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बाह्रबिसे",
+      "local_level_name_en": "Barhabise",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 2, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 3, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 4, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 5, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 6, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 7, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 8, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"},
+        {"ward_no": 9, "ward_name_ne": "बाह्रबिसे", "ward_name_en": "Barhabise"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भोटेकोशी",
+      "local_level_name_en": "Bhotekoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भोटेकोशी", "ward_name_en": "Bhotekoshi"},
+        {"ward_no": 2, "ward_name_ne": "भोटेकोशी", "ward_name_en": "Bhotekoshi"},
+        {"ward_no": 3, "ward_name_ne": "भोटेकोशी", "ward_name_en": "Bhotekoshi"},
+        {"ward_no": 4, "ward_name_ne": "भोटेकोशी", "ward_name_en": "Bhotekoshi"},
+        {"ward_no": 5, "ward_name_ne": "भोटेकोशी", "ward_name_en": "Bhotekoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मेलम्ची",
+      "local_level_name_en": "Melamchi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 2, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 3, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 4, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 5, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 6, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 7, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 8, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 9, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 10, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 11, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 12, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"},
+        {"ward_no": 13, "ward_name_ne": "मेलम्ची", "ward_name_en": "Melamchi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सुनकोशी",
+      "local_level_name_en": "Sunkoshi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 2, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 3, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 4, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 5, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 6, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"},
+        {"ward_no": 7, "ward_name_ne": "सुनकोशी", "ward_name_en": "Sunkoshi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "त्रिपुरासुन्दरी",
+      "local_level_name_en": "Tripurasundari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 2, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 3, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 4, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 5, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"},
+        {"ward_no": 6, "ward_name_ne": "त्रिपुरासुन्दरी", "ward_name_en": "Tripurasundari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "इन्द्रावती",
+      "local_level_name_en": "Indrawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 2, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 3, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 4, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 5, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 6, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 7, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 8, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 9, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 10, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 11, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"},
+        {"ward_no": 12, "ward_name_ne": "इन्द्रावती", "ward_name_en": "Indrawati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जुगल",
+      "local_level_name_en": "Jugal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 2, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 3, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 4, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 5, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 6, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"},
+        {"ward_no": 7, "ward_name_ne": "जुगल", "ward_name_en": "Jugal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पाँचपोखरी थाङपाल",
+      "local_level_name_en": "Panchpokhari Thangpal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 2, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 3, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 4, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 5, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 6, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 7, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"},
+        {"ward_no": 8, "ward_name_ne": "पाँचपोखरी थाङपाल", "ward_name_en": "Panchpokhari Thangpal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बलेफी",
+      "local_level_name_en": "Balefi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 2, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 3, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 4, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 5, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 6, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 7, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"},
+        {"ward_no": 8, "ward_name_ne": "बलेफी", "ward_name_en": "Balefi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लिसंखु पाखर",
+      "local_level_name_en": "Lisankhu Pakhar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 2, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 3, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 4, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 5, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 6, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"},
+        {"ward_no": 7, "ward_name_ne": "लिसंखु पाखर", "ward_name_en": "Lisankhu Pakhar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हेलम्बु",
+      "local_level_name_en": "Helambu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 2, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 3, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 4, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 5, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 6, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"},
+        {"ward_no": 7, "ward_name_ne": "हेलम्बु", "ward_name_en": "Helambu"}
+      ]
+    }
+  ]
+}
+

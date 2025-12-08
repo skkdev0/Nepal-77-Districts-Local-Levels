@@ -1,0 +1,140 @@
+{
+  "district_id": "P5D01",
+  "district_name_ne": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+  "district_name_en": "Nawalparasi (Bardaghat Susta West)",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बर्दघाट",
+      "local_level_name_en": "Bardaghat",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 2, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 3, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 4, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 5, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 6, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 7, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 8, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 9, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 10, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 11, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 12, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 13, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 14, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 15, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"},
+        {"ward_no": 16, "ward_name_ne": "बर्दघाट", "ward_name_en": "Bardaghat"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रामग्राम",
+      "local_level_name_en": "Ramgram",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 2, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 3, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 4, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 5, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 6, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 7, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 8, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 9, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 10, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 11, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 12, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 13, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 14, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 15, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 16, "ward_name_en": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 17, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"},
+        {"ward_no": 18, "ward_name_ne": "रामग्राम", "ward_name_en": "Ramgram"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सुनवल",
+      "local_level_name_en": "Sunwal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 2, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 3, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 4, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 5, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 6, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 7, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 8, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 9, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 10, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 11, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 12, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"},
+        {"ward_no": 13, "ward_name_ne": "सुनवल", "ward_name_en": "Sunwal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पाल्हीनन्दन",
+      "local_level_name_en": "Palhinandan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"},
+        {"ward_no": 2, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"},
+        {"ward_no": 3, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"},
+        {"ward_no": 4, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"},
+        {"ward_no": 5, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"},
+        {"ward_no": 6, "ward_name_ne": "पाल्हीनन्दन", "ward_name_en": "Palhinandan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "प्रतापपुर",
+      "local_level_name_en": "Pratappur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 2, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 3, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 4, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 5, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 6, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 7, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 8, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"},
+        {"ward_no": 9, "ward_name_ne": "प्रतापपुर", "ward_name_en": "Pratappur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सरावल",
+      "local_level_name_en": "Sarawal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 2, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 3, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 4, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 5, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 6, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"},
+        {"ward_no": 7, "ward_name_ne": "सरावल", "ward_name_en": "Sarawal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुस्ता",
+      "local_level_name_en": "Susta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुस्ता", "ward_name_en": "Susta"},
+        {"ward_no": 2, "ward_name_ne": "सुस्ता", "ward_name_en": "Susta"},
+        {"ward_no": 3, "ward_name_ne": "सुस्ता", "ward_name_en": "Susta"},
+        {"ward_no": 4, "ward_name_ne": "सुस्ता", "ward_name_en": "Susta"},
+        {"ward_no": 5, "ward_name_ne": "सुस्ता", "ward_name_en": "Susta"}
+      ]
+    }
+  ]
+}

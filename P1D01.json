@@ -1,0 +1,142 @@
+{
+  "district_id": "P1D01",
+  "district_name_ne": "ताप्लेजुङ",
+  "district_name_en": "Taplejung",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "फुङलिङ",
+      "local_level_name_en": "Phungling",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फुरुम्बु", "ward_name_en": "Furumbu"},
+        {"ward_no": 2, "ward_name_ne": "उकालिपानी", "ward_name_en": "Ukalipani"},
+        {"ward_no": 3, "ward_name_ne": "डोकु", "ward_name_en": "Doku"},
+        {"ward_no": 4, "ward_name_ne": "साब्लाखु", "ward_name_en": "Sablakhu"},
+        {"ward_no": 5, "ward_name_ne": "ट्याक्सार", "ward_name_en": "Taxar"},
+        {"ward_no": 6, "ward_name_ne": "काम्साङ्ग", "ward_name_en": "Kamsang"},
+        {"ward_no": 7, "ward_name_ne": "नाङ्गोले", "ward_name_en": "Nangole"},
+        {"ward_no": 8, "ward_name_ne": "दोखु", "ward_name_en": "Dokh"},
+        {"ward_no": 9, "ward_name_ne": "लिङ्गतेप", "ward_name_en": "Lingtep"},
+        {"ward_no": 10, "ward_name_ne": "फक्ताङ्लुङ", "ward_name_en": "Phaktanglung"},
+        {"ward_no": 11, "ward_name_ne": "लेव", "ward_name_en": "Lew"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आठराई त्रिवेणी",
+      "local_level_name_en": "Aathrai Tribeni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "हाङ्पाङ्", "ward_name_en": "Hangpang"},
+        {"ward_no": 2, "ward_name_ne": "फुलबारी", "ward_name_en": "Phulbari"},
+        {"ward_no": 3, "ward_name_ne": "चाक्सिबोट", "ward_name_en": "Chaksibot"},
+        {"ward_no": 4, "ward_name_ne": "इवा", "ward_name_en": "Iwa"},
+        {"ward_no": 5, "ward_name_ne": "निगुरादिन", "ward_name_en": "Niguradin"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "फक्ताङ्लुङ",
+      "local_level_name_en": "Phaktanglung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ओलाङ्चुङ्गोला", "ward_name_en": "Olangchungola"},
+        {"ward_no": 2, "ward_name_ne": "साँवादिन", "ward_name_en": "Sawadin"},
+        {"ward_no": 3, "ward_name_ne": "लेलेप", "ward_name_en": "Lelap"},
+        {"ward_no": 4, "ward_name_ne": "तापेथोक", "ward_name_en": "Tapethok"},
+        {"ward_no": 5, "ward_name_ne": "लिङ्खिम", "ward_name_en": "Lingkhim"},
+        {"ward_no": 6, "ward_name_ne": "सादिन", "ward_name_en": "Sadin"},
+        {"ward_no": 7, "ward_name_ne": "इखाबु", "ward_name_en": "Ikhabu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मेरिङदेन",
+      "local_level_name_en": "Meringden",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लिङ्खिम", "ward_name_en": "Lingkhim"},
+        {"ward_no": 2, "ward_name_ne": "सान्थाक्रा", "ward_name_en": "Santhakra"},
+        {"ward_no": 3, "ward_name_ne": "दोभान", "ward_name_en": "Dobhan"},
+        {"ward_no": 4, "ward_name_ne": "मिङ्दो", "ward_name_en": "Mingdo"},
+        {"ward_no": 5, "ward_name_ne": "थमिरुङ्", "ward_name_en": "Thamirung"},
+        {"ward_no": 6, "ward_name_ne": "नामलिङ्ग", "ward_name_en": "Namling"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मिक्वाखोला",
+      "local_level_name_en": "Mikkwa Khola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साँवा", "ward_name_en": "Sawa"},
+        {"ward_no": 2, "ward_name_ne": "तारगाउँ", "ward_name_en": "Targaun"},
+        {"ward_no": 3, "ward_name_ne": "लिङ्खिम", "ward_name_en": "Lingkhim"},
+        {"ward_no": 4, "ward_name_ne": "खोक्लिङ्ग", "ward_name_en": "Khokling"},
+        {"ward_no": 5, "ward_name_ne": "पापुङ्ग", "ward_name_en": "Papung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मैवाखोला",
+      "local_level_name_en": "Maiwakhola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ढुङ्गेसाँघु", "ward_name_en": "Dhungesanghu"},
+        {"ward_no": 2, "ward_name_ne": "फुरम्बु", "ward_name_en": "Furambu"},
+        {"ward_no": 3, "ward_name_ne": "लिवाङ", "ward_name_en": "Liwang"},
+        {"ward_no": 4, "ward_name_ne": "साँघु", "ward_name_en": "Sanghu"},
+        {"ward_no": 5, "ward_name_ne": "नयाँखोला", "ward_name_en": "Nayakhola"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिदिङ्वा",
+      "local_level_name_en": "Sidingwa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साप्सरा", "ward_name_en": "Sapsara"},
+        {"ward_no": 2, "ward_name_ne": "मेहेले", "ward_name_en": "Mehele"},
+        {"ward_no": 3, "ward_name_ne": "लिम्बुदीन", "ward_name_en": "Limbudin"},
+        {"ward_no": 4, "ward_name_ne": "सानीमा", "ward_name_en": "Sanima"},
+        {"ward_no": 5, "ward_name_ne": "आङ्खोप", "ward_name_en": "Angkhop"},
+        {"ward_no": 6, "ward_name_ne": "काबेली", "ward_name_en": "Kabeli"},
+        {"ward_no": 7, "ward_name_ne": "आम्बु", "ward_name_en": "Ambu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पाथीभरा याङवरक",
+      "local_level_name_en": "Pathibhara Yangwarak",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थुम्बेदीन", "ward_name_en": "Thumbedin"},
+        {"ward_no": 2, "ward_name_ne": "तिङ्देङ", "ward_name_en": "Tingdeng"},
+        {"ward_no": 3, "ward_name_ne": "चाक्सीबोट", "ward_name_en": "Chaksibot"},
+        {"ward_no": 4, "ward_name_ne": "खेवाङ", "ward_name_en": "Khewang"},
+        {"ward_no": 5, "ward_name_ne": "ताम्फुला", "ward_name_en": "Tamphula"},
+        {"ward_no": 6, "ward_name_ne": "ढुङ्गेसाँघु", "ward_name_en": "Dhungesanghu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिरिजङ्घा",
+      "local_level_name_en": "Siringa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिने", "ward_name_en": "Sine"},
+        {"ward_no": 2, "ward_name_ne": "थुक्लुङ्ग", "ward_name_en": "Thuklung"},
+        {"ward_no": 3, "ward_name_ne": "तेल्लोक", "ward_name_en": "Tellok"},
+        {"ward_no": 4, "ward_name_ne": "तेल्लोक", "ward_name_en": "Tellok"},
+        {"ward_no": 5, "ward_name_ne": "खेजेनिम", "ward_name_en": "Khejenim"},
+        {"ward_no": 6, "ward_name_ne": "लेव", "ward_name_en": "Lew"},
+        {"ward_no": 7, "ward_name_ne": "यामफुदीन", "ward_name_en": "Yamphudin"},
+        {"ward_no": 8, "ward_name_ne": "याम्फुदीन", "ward_name_en": "Yamphudin"}
+      ]
+    }
+  ]
+}

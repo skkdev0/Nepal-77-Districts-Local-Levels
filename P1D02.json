@@ -1,0 +1,134 @@
+{
+  "district_id": "P1D02",
+  "district_name_ne": "पाँचथर",
+  "district_name_en": "Panchthar",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "फिदिम",
+      "local_level_name_en": "Phidim",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फिदिम", "ward_name_en": "Phidim"},
+        {"ward_no": 2, "ward_name_ne": "लब्रेकुटी", "ward_name_en": "Labrekuti"},
+        {"ward_no": 3, "ward_name_ne": "सुम्निमा", "ward_name_en": "Sumnima"},
+        {"ward_no": 4, "ward_name_ne": "फिदिम", "ward_name_en": "Phidim"},
+        {"ward_no": 5, "ward_name_ne": "लौवना", "ward_name_en": "Lauwana"},
+        {"ward_no": 6, "ward_name_ne": "सिवा", "ward_name_en": "Siwa"},
+        {"ward_no": 7, "ward_name_ne": "रानीटार", "ward_name_en": "Ranitar"},
+        {"ward_no": 8, "ward_name_ne": "फिदिम", "ward_name_en": "Phidim"},
+        {"ward_no": 9, "ward_name_ne": "लुम्फाबुङ", "ward_name_en": "Lumphabung"},
+        {"ward_no": 10, "ward_name_ne": "यासोक", "ward_name_en": "Yasok"},
+        {"ward_no": 11, "ward_name_ne": "लुङरुपा", "ward_name_en": "Lungrupa"},
+        {"ward_no": 12, "ward_name_ne": "रानिटार", "ward_name_en": "Ranitar"},
+        {"ward_no": 13, "ward_name_ne": "नागेन्द्रनगर", "ward_name_en": "Nagendranagar"},
+        {"ward_no": 14, "ward_name_ne": "इम्बूङ", "ward_name_en": "Imbung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "फाल्गुनन्द",
+      "local_level_name_en": "Phalgulanda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नवमीडाँडा", "ward_name_en": "Nawamidanda"},
+        {"ward_no": 2, "ward_name_ne": "इम्बुङ", "ward_name_en": "Imbung"},
+        {"ward_no": 3, "ward_name_ne": "ओम्सिन", "ward_name_en": "Omsin"},
+        {"ward_no": 4, "ward_name_ne": "पन्धाक", "ward_name_en": "Pandhak"},
+        {"ward_no": 5, "ward_name_ne": "फाक्तेप", "ward_name_en": "Phaktep"},
+        {"ward_no": 6, "ward_name_ne": "हाङगुम", "ward_name_en": "Hangum"},
+        {"ward_no": 7, "ward_name_ne": "एकतीन", "ward_name_en": "Ektin"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "हिलिहाङ",
+      "local_level_name_en": "Hilihang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिम्बुङ", "ward_name_en": "Timbung"},
+        {"ward_no": 2, "ward_name_ne": "सुभाङ", "ward_name_en": "Subhang"},
+        {"ward_no": 3, "ward_name_ne": "पञ्चमी", "ward_name_en": "Panchami"},
+        {"ward_no": 4, "ward_name_ne": "अमरपुर", "ward_name_en": "Amarpur"},
+        {"ward_no": 5, "ward_name_ne": "भरपा", "ward_name_en": "Bharpa"},
+        {"ward_no": 6, "ward_name_ne": "फलाँटे", "ward_name_en": "Phalante"},
+        {"ward_no": 7, "ward_name_ne": "याङनाम", "ward_name_en": "Yangnam"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कुम्मायक",
+      "local_level_name_en": "Kummayak",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "यासोक", "ward_name_en": "Yasok"},
+        {"ward_no": 2, "ward_name_ne": "माङजाबुङ", "ward_name_en": "Mangjabung"},
+        {"ward_no": 3, "ward_name_ne": "रानीगाउँ", "ward_name_en": "Ranigaun"},
+        {"ward_no": 4, "ward_name_ne": "तिहारुङ", "ward_name_en": "Tiharung"},
+        {"ward_no": 5, "ward_name_ne": "चाङथापु", "ward_name_en": "Changthapu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तुम्बेवा",
+      "local_level_name_en": "Tumbewa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सब्बु", "ward_name_en": "Sabbu"},
+        {"ward_no": 2, "ward_name_ne": "हाङ्गुम", "ward_name_en": "Hangum"},
+        {"ward_no": 3, "ward_name_ne": "यासोक", "ward_name_en": "Yasok"},
+        {"ward_no": 4, "ward_name_ne": "आङ्ना", "ward_name_en": "Angna"},
+        {"ward_no": 5, "ward_name_ne": "माङ्जाबुङ", "ward_name_en": "Mangjabung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "याङवरक",
+      "local_level_name_en": "Yangwarak",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थर्पु", "ward_name_en": "Tharpu"},
+        {"ward_no": 2, "ward_name_ne": "ओयाम", "ward_name_en": "Oyam"},
+        {"ward_no": 3, "ward_name_ne": "चिम्फुली", "ward_name_en": "Chimphuli"},
+        {"ward_no": 4, "ward_name_ne": "फेदेन", "ward_name_en": "Pheden"},
+        {"ward_no": 5, "ward_name_ne": "याङनाम", "ward_name_en": "Yangnam"},
+        {"ward_no": 6, "ward_name_ne": "याङनाम", "ward_name_en": "Yangnam"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मिक्लाजुङ",
+      "local_level_name_en": "Miklajung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साब्रा", "ward_name_en": "Sabra"},
+        {"ward_no": 2, "ward_name_ne": "आरुबोटे", "ward_name_en": "Arubote"},
+        {"ward_no": 3, "ward_name_ne": "सरङ्गडाँडा", "ward_name_en": "Sarangdanda"},
+        {"ward_no": 4, "ward_name_ne": "रवि", "ward_name_en": "Rabi"},
+        {"ward_no": 5, "ward_name_ne": "लेम्बा", "ward_name_en": "Lemba"},
+        {"ward_no": 6, "ward_name_ne": "लिम्बा", "ward_name_en": "Limba"},
+        {"ward_no": 7, "ward_name_ne": "लुम्फुवा", "ward_name_en": "Lumphuwa"},
+        {"ward_no": 8, "ward_name_ne": "माङ्जाबुङ", "ward_name_en": "Mangjabung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "फालेलुङ",
+      "local_level_name_en": "Phalelung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिङ्मै", "ward_name_en": "Tingmai"},
+        {"ward_no": 2, "ward_name_ne": "एकतीन", "ward_name_en": "Ektin"},
+        {"ward_no": 3, "ward_name_ne": "फालौट", "ward_name_en": "Phalot"},
+        {"ward_no": 4, "ward_name_ne": "पञ्चमी", "ward_name_en": "Panchami"},
+        {"ward_no": 5, "ward_name_ne": "प्राङबुङ", "ward_name_en": "Prangbung"},
+        {"ward_no": 6, "ward_name_ne": "याङनाम", "ward_name_en": "Yangnam"},
+        {"ward_no": 7, "ward_name_ne": "नागिन", "ward_name_en": "Nagin"},
+        {"ward_no": 8, "ward_name_ne": "भाम्रा", "ward_name_en": "Bhamra"}
+      ]
+    }
+  ]
+}

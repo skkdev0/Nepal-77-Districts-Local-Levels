@@ -1,0 +1,118 @@
+{
+  "district_id": "P5D06",
+  "district_name_ne": "अर्घाखाँची",
+  "district_name_en": "Arghakhanchi",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 6,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सन्धिखर्क",
+      "local_level_name_en": "Sandhikharka",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 2, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 3, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 4, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 5, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 6, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 7, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 8, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 9, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 10, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 11, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"},
+        {"ward_no": 12, "ward_name_ne": "सन्धिखर्क", "ward_name_en": "Sandhikharka"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शीतगंगा",
+      "local_level_name_en": "Shitganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 2, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 3, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 4, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 5, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 6, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 7, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 8, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 9, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 10, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 11, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 12, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 13, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"},
+        {"ward_no": 14, "ward_name_ne": "शीतगंगा", "ward_name_en": "Shitganga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भुमिकास्थान",
+      "local_level_name_en": "Bhumikasthan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 2, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 3, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 4, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 5, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 6, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 7, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 8, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 9, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"},
+        {"ward_no": 10, "ward_name_ne": "भुमिकास्थान", "ward_name_en": "Bhumikasthan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छत्रदेव",
+      "local_level_name_en": "Chhatradev",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 2, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 3, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 4, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 5, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 6, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"},
+        {"ward_no": 7, "ward_name_ne": "छत्रदेव", "ward_name_en": "Chhatradev"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पाणिनी",
+      "local_level_name_en": "Panini",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 2, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 3, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 4, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 5, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 6, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 7, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"},
+        {"ward_no": 8, "ward_name_ne": "पाणिनी", "ward_name_en": "Panini"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मालारानी",
+      "local_level_name_en": "Malarani",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 2, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 3, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 4, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 5, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 6, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 7, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 8, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"},
+        {"ward_no": 9, "ward_name_ne": "मालारानी", "ward_name_en": "Malarani"}
+      ]
+    }
+  ]
+}

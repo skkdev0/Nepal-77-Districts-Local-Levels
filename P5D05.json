@@ -1,0 +1,200 @@
+{
+  "district_id": "P5D05",
+  "district_name_ne": "गुल्मी",
+  "district_name_en": "Gulmi",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 12,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रेसुङ्गा",
+      "local_level_name_en": "Resunga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 2, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 3, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 4, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 5, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 6, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 7, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 8, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 9, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 10, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 11, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 12, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 13, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"},
+        {"ward_no": 14, "ward_name_ne": "रेसुङ्गा", "ward_name_en": "Resunga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मुसिकोट",
+      "local_level_name_en": "Musikot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 2, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 3, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 4, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 5, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 6, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 7, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 8, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 9, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सत्यवती",
+      "local_level_name_en": "Satyawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 2, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 3, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 4, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 5, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 6, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 7, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 8, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चन्द्रकोट",
+      "local_level_name_en": "Chandrakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 2, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 3, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 4, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 5, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 6, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 7, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"},
+        {"ward_no": 8, "ward_name_ne": "चन्द्रकोट", "ward_name_en": "Chandrakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रुपाकोट",
+      "local_level_name_en": "Rupakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 2, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 3, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 4, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 5, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 6, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"},
+        {"ward_no": 7, "ward_name_ne": "रुपाकोट", "ward_name_en": "Rupakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "गुल्मीदरबार",
+      "local_level_name_en": "Gulmi Durbar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 2, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 3, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 4, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 5, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 6, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"},
+        {"ward_no": 7, "ward_name_ne": "गुल्मीदरबार", "ward_name_en": "Gulmi Durbar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "कालीगण्डकी",
+      "local_level_name_en": "Kaligandaki",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 2, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 3, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 4, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 5, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 6, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"},
+        {"ward_no": 7, "ward_name_ne": "कालीगण्डकी", "ward_name_en": "Kaligandaki"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मालिका",
+      "local_level_name_en": "Malika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 2, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 3, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 4, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 5, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 6, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 7, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 8, "ward_name_ne": "मालिका", "ward_name_en": "Malika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "धुर्कोट",
+      "local_level_name_en": "Dhurkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 2, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 3, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 4, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 5, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 6, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"},
+        {"ward_no": 7, "ward_name_ne": "धुर्कोट", "ward_name_en": "Dhurkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "इस्मा",
+      "local_level_name_en": "Isma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"},
+        {"ward_no": 2, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"},
+        {"ward_no": 3, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"},
+        {"ward_no": 4, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"},
+        {"ward_no": 5, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"},
+        {"ward_no": 6, "ward_name_ne": "इस्मा", "ward_name_en": "Isma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छत्रकोट",
+      "local_level_name_en": "Chatrakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"},
+        {"ward_no": 2, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"},
+        {"ward_no": 3, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"},
+        {"ward_no": 4, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"},
+        {"ward_no": 5, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"},
+        {"ward_no": 6, "ward_name_ne": "छत्रकोट", "ward_name_en": "Chatrakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सत्यवती",
+      "local_level_name_en": "Satyawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 2, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 3, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 4, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 5, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 6, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 7, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"}
+      ]
+    }
+  ]
+}

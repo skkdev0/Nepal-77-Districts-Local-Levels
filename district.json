@@ -1,0 +1,133 @@
+{
+  "database_name": "Nepal_Districts_by_Province",
+  "description_ne": "नेपालका ७ वटा प्रदेश अनुसार विभाजित सबै ७७ जिल्लाहरूको सूची।",
+  "description_en": "A list of all 77 districts of Nepal categorized by the 7 provinces.",
+  "provinces": [
+    {
+      "province_id": 1,
+      "province_name_ne": "कोशी प्रदेश",
+      "province_name_en": "Koshi Province",
+      "districts": [
+        {"district_id": "P1D01", "district_name_ne": "ताप्लेजुङ", "district_name_en": "Taplejung"},
+        {"district_id": "P1D02", "district_name_ne": "पाँचथर", "district_name_en": "Panchthar"},
+        {"district_id": "P1D03", "district_name_ne": "इलाम", "district_name_en": "Ilam"},
+        {"district_id": "P1D04", "district_name_ne": "झापा", "district_name_en": "Jhapa"},
+        {"district_id": "P1D05", "district_name_ne": "मोरङ", "district_name_en": "Morang"},
+        {"district_id": "P1D06", "district_name_ne": "सुनसरी", "district_name_en": "Sunsari"},
+        {"district_id": "P1D07", "district_name_ne": "धनकुटा", "district_name_en": "Dhankuta"},
+        {"district_id": "P1D08", "district_name_ne": "तेह्रथुम", "district_name_en": "Tehrathum"},
+        {"district_id": "P1D09", "district_name_ne": "सङ्खुवासभा", "district_name_en": "Sankhuwasabha"},
+        {"district_id": "P1D10", "district_name_ne": "भोजपुर", "district_name_en": "Bhojpur"},
+        {"district_id": "P1D11", "district_name_ne": "सोलुखुम्बु", "district_name_en": "Solukhumbu"},
+        {"district_id": "P1D12", "district_name_ne": "ओखलढुङ्गा", "district_name_en": "Okhaldhunga"},
+        {"district_id": "P1D13", "district_name_ne": "खोटाङ", "district_name_en": "Khotang"},
+        {"district_id": "P1D14", "district_name_ne": "उदयपुर", "district_name_en": "Udayapur"}
+      ]
+    },
+    {
+      "province_id": 2,
+      "province_name_ne": "मधेश प्रदेश",
+      "province_name_en": "Madhesh Province",
+      "districts": [
+        {"district_id": "P2D01", "district_name_ne": "सप्तरी", "district_name_en": "Saptari"},
+        {"district_id": "P2D02", "district_name_ne": "सिराहा", "district_name_en": "Siraha"},
+        {"district_id": "P2D03", "district_name_ne": "धनुषा", "district_name_en": "Dhanusha"},
+        {"district_id": "P2D04", "district_name_ne": "महोत्तरी", "district_name_en": "Mahottari"},
+        {"district_id": "P2D05", "district_name_ne": "सर्लाही", "district_name_en": "Sarlahi"},
+        {"district_id": "P2D06", "district_name_ne": "रौतहट", "district_name_en": "Rautahat"},
+        {"district_id": "P2D07", "district_name_ne": "बारा", "district_name_en": "Bara"},
+        {"district_id": "P2D08", "district_name_ne": "पर्सा", "district_name_en": "Parsa"}
+      ]
+    },
+    {
+      "province_id": 3,
+      "province_name_ne": "बागमती प्रदेश",
+      "province_name_en": "Bagmati Province",
+      "districts": [
+        {"district_id": "P3D01", "district_name_ne": "दोलखा", "district_name_en": "Dolakha"},
+        {"district_id": "P3D02", "district_name_ne": "सिन्धुपाल्चोक", "district_name_en": "Sindhupalchok"},
+        {"district_id": "P3D03", "district_name_ne": "रसुवा", "district_name_en": "Rasuwa"},
+        {"district_id": "P3D04", "district_name_ne": "धादिङ", "district_name_en": "Dhading"},
+        {"district_id": "P3D05", "district_name_ne": "नुवाकोट", "district_name_en": "Nuwakot"},
+        {"district_id": "P3D06", "district_name_ne": "काठमाडौं", "district_name_en": "Kathmandu"},
+        {"district_id": "P3D07", "district_name_ne": "भक्तपुर", "district_name_en": "Bhaktapur"},
+        {"district_id": "P3D08", "district_name_ne": "ललितपुर", "district_name_en": "Lalitpur"},
+        {"district_id": "P3D09", "district_name_ne": "काभ्रेपलाञ्चोक", "district_name_en": "Kavrepalanchok"},
+        {"district_id": "P3D10", "district_name_ne": "रामेछाप", "district_name_en": "Ramechhap"},
+        {"district_id": "P3D11", "district_name_ne": "सिन्धुली", "district_name_en": "Sindhuli"},
+        {"district_id": "P3D12", "district_name_ne": "मकवानपुर", "district_name_en": "Makwanpur"},
+        {"district_id": "P3D13", "district_name_ne": "चितवन", "district_name_en": "Chitwan"}
+      ]
+    },
+    {
+      "province_id": 4,
+      "province_name_ne": "गण्डकी प्रदेश",
+      "province_name_en": "Gandaki Province",
+      "districts": [
+        {"district_id": "P4D01", "district_name_ne": "गोरखा", "district_name_en": "Gorkha"},
+        {"district_id": "P4D02", "district_name_ne": "लमजुङ", "district_name_en": "Lamjung"},
+        {"district_id": "P4D03", "district_name_ne": "तनहुँ", "district_name_en": "Tanahun"},
+        {"district_id": "P4D04", "district_name_ne": "कास्की", "district_name_en": "Kaski"},
+        {"district_id": "P4D05", "district_name_ne": "स्याङ्जा", "district_name_en": "Syangja"},
+        {"district_id": "P4D06", "district_name_ne": "मनाङ", "district_name_en": "Manang"},
+        {"district_id": "P4D07", "district_name_ne": "मुस्ताङ", "district_name_en": "Mustang"},
+        {"district_id": "P4D08", "district_name_ne": "पर्वत", "district_name_en": "Parbat"},
+        {"district_id": "P4D09", "district_name_ne": "म्याग्दी", "district_name_en": "Myagdi"},
+        {"district_id": "P4D10", "district_name_ne": "बाग्लुङ", "district_name_en": "Baglung"},
+        {"district_id": "P4D11", "district_name_ne": "नवलपरासी (बर्दघाट सुस्ता पूर्व)", "district_name_en": "Nawalparasi (Bardaghat Susta East)"}
+      ]
+    },
+    {
+      "province_id": 5,
+      "province_name_ne": "लुम्बिनी प्रदेश",
+      "province_name_en": "Lumbini Province",
+      "districts": [
+        {"district_id": "P5D01", "district_name_ne": "रुकुम (पूर्वी भाग)", "district_name_en": "Rukum (Eastern Part)"},
+        {"district_id": "P5D02", "district_name_ne": "रोल्पा", "district_name_en": "Rolpa"},
+        {"district_id": "P5D03", "district_name_ne": "प्युठान", "district_name_en": "Pyuthan"},
+        {"district_id": "P5D04", "district_name_ne": "गुल्मी", "district_name_en": "Gulmi"},
+        {"district_id": "P5D05", "district_name_ne": "अर्घाखाँची", "district_name_en": "Arghakhanchi"},
+        {"district_id": "P5D06", "district_name_ne": "कपिलवस्तु", "district_name_en": "Kapilvastu"},
+        {"district_id": "P5D07", "district_name_ne": "पाल्पा", "district_name_en": "Palpa"},
+        {"district_id": "P5D08", "district_name_ne": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)", "district_name_en": "Nawalparasi (Bardaghat Susta West)"},
+        {"district_id": "P5D09", "district_name_ne": "रुपन्देही", "district_name_en": "Rupandehi"},
+        {"district_id": "P5D10", "district_name_ne": "दाङ", "district_name_en": "Dang"},
+        {"district_id": "P5D11", "district_name_ne": "बाँके", "district_name_en": "Banke"},
+        {"district_id": "P5D12", "district_name_ne": "बर्दिया", "district_name_en": "Bardiya"}
+      ]
+    },
+    {
+      "province_id": 6,
+      "province_name_ne": "कर्णाली प्रदेश",
+      "province_name_en": "Karnali Province",
+      "districts": [
+        {"district_id": "P6D01", "district_name_ne": "डोल्पा", "district_name_en": "Dolpa"},
+        {"district_id": "P6D02", "district_name_ne": "मुगु", "district_name_en": "Mugu"},
+        {"district_id": "P6D03", "district_name_ne": "हुम्ला", "district_name_en": "Humla"},
+        {"district_id": "P6D04", "district_name_ne": "जुम्ला", "district_name_en": "Jumla"},
+        {"district_id": "P6D05", "district_name_ne": "कालिकोट", "district_name_en": "Kalikot"},
+        {"district_id": "P6D06", "district_name_ne": "दैलेख", "district_name_en": "Dailekh"},
+        {"district_id": "P6D07", "district_name_ne": "जाजरकोट", "district_name_en": "Jajarkot"},
+        {"district_id": "P6D08", "district_name_ne": "पश्चिम रुकुम", "district_name_en": "Rukum Paschim (Western Rukum)"},
+        {"district_id": "P6D09", "district_name_ne": "सल्यान", "district_name_en": "Salyan"},
+        {"district_id": "P6D10", "district_name_ne": "सुर्खेत", "district_name_en": "Surkhet"}
+      ]
+    },
+    {
+      "province_id": 7,
+      "province_name_ne": "सुदूरपश्चिम प्रदेश",
+      "province_name_en": "Sudurpashchim Province",
+      "districts": [
+        {"district_id": "P7D01", "district_name_ne": "बाजुरा", "district_name_en": "Bajura"},
+        {"district_id": "P7D02", "district_name_ne": "बझाङ", "district_name_en": "Bajhang"},
+        {"district_id": "P7D03", "district_name_ne": "अछाम", "district_name_en": "Achham"},
+        {"district_id": "P7D04", "district_name_ne": "डोटी", "district_name_en": "Doti"},
+        {"district_id": "P7D05", "district_name_ne": "कैलाली", "district_name_en": "Kailali"},
+        {"district_id": "P7D06", "district_name_ne": "दार्चुला", "district_name_en": "Darchula"},
+        {"district_id": "P7D07", "district_name_ne": "बैतडी", "district_name_en": "Baitadi"},
+        {"district_id": "P7D08", "district_name_ne": "डडेल्धुरा", "district_name_en": "Dadeldhura"},
+        {"district_id": "P7D09", "district_name_ne": "कञ्चनपुर", "district_name_en": "Kanchanpur"}
+      ]
+    }
+  ]
+}

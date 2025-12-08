@@ -1,0 +1,101 @@
+{
+  "district_id": "P1D08",
+  "district_name_ne": "तेह्रथुम",
+  "district_name_en": "Terhathum",
+  "province_name_ne": "कोशी प्रदेश",
+  "province_name_en": "Koshi Province",
+  "local_levels_count": 6,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "म्याङलुङ",
+      "local_level_name_en": "Myanglung",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 2, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 3, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 4, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 5, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 6, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 7, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 8, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 9, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"},
+        {"ward_no": 10, "ward_name_ne": "म्याङलुङ", "ward_name_en": "Myanglung"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "लालीगुराँस",
+      "local_level_name_en": "Laligurans",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 2, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 3, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 4, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 5, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 6, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 7, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 8, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"},
+        {"ward_no": 9, "ward_name_ne": "लालीगुराँस", "ward_name_en": "Laligurans"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "फेदाप",
+      "local_level_name_en": "Phedap",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "फेदाप", "ward_name_en": "Phedap"},
+        {"ward_no": 2, "ward_name_ne": "फेदाप", "ward_name_en": "Phedap"},
+        {"ward_no": 3, "ward_name_ne": "फेदाप", "ward_name_en": "Phedap"},
+        {"ward_no": 4, "ward_name_ne": "फेदाप", "ward_name_en": "Phedap"},
+        {"ward_no": 5, "ward_name_ne": "फेदाप", "ward_name_en": "Phedap"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "आठराई",
+      "local_level_name_en": "Athrai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 2, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 3, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 4, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 5, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 6, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"},
+        {"ward_no": 7, "ward_name_ne": "आठराई", "ward_name_en": "Athrai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छथर",
+      "local_level_name_en": "Chhathar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"},
+        {"ward_no": 2, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"},
+        {"ward_no": 3, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"},
+        {"ward_no": 4, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"},
+        {"ward_no": 5, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"},
+        {"ward_no": 6, "ward_name_ne": "छथर", "ward_name_en": "Chhathar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मेन्छयायेम",
+      "local_level_name_en": "Menchhayem",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"},
+        {"ward_no": 2, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"},
+        {"ward_no": 3, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"},
+        {"ward_no": 4, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"},
+        {"ward_no": 5, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"},
+        {"ward_no": 6, "ward_name_ne": "मेन्छयायेम", "ward_name_en": "Menchhayem"}
+      ]
+    }
+  ]
+}

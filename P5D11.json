@@ -1,0 +1,155 @@
+{
+  "district_id": "P5D11",
+  "district_name_ne": "बाँके",
+  "district_name_en": "Banke",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "नेपालगन्ज",
+      "local_level_name_en": "Nepalgunj",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 2, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 3, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 4, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 5, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 6, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 7, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 8, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 9, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 10, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 11, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 12, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 13, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 14, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 15, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 16, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 17, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 18, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 19, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 20, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 21, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 22, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"},
+        {"ward_no": 23, "ward_name_ne": "नेपालगन्ज", "ward_name_en": "Nepalgunj"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कोहलपुर",
+      "local_level_name_en": "Kohalpur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 2, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 3, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 4, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 5, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 6, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 7, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 8, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 9, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 10, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 11, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 12, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 13, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 14, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"},
+        {"ward_no": 15, "ward_name_ne": "कोहलपुर", "ward_name_en": "Kohalpur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "राप्तीसोनारी",
+      "local_level_name_en": "Rapti Sonari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 2, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 3, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 4, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 5, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 6, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 7, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 8, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"},
+        {"ward_no": 9, "ward_name_ne": "राप्तीसोनारी", "ward_name_en": "Rapti Sonari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नरैनापुर",
+      "local_level_name_en": "Narainapur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"},
+        {"ward_no": 2, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"},
+        {"ward_no": 3, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"},
+        {"ward_no": 4, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"},
+        {"ward_no": 5, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"},
+        {"ward_no": 6, "ward_name_ne": "नरैनापुर", "ward_name_en": "Narainapur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "डुडुवा",
+      "local_level_name_en": "Duduwa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"},
+        {"ward_no": 2, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"},
+        {"ward_no": 3, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"},
+        {"ward_no": 4, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"},
+        {"ward_no": 5, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"},
+        {"ward_no": 6, "ward_name_ne": "डुडुवा", "ward_name_en": "Duduwa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "जानकी",
+      "local_level_name_en": "Janaki",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"},
+        {"ward_no": 2, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"},
+        {"ward_no": 3, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"},
+        {"ward_no": 4, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"},
+        {"ward_no": 5, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"},
+        {"ward_no": 6, "ward_name_ne": "जानकी", "ward_name_en": "Janaki"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खजुरा",
+      "local_level_name_en": "Khajura",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 2, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 3, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 4, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 5, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 6, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 7, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"},
+        {"ward_no": 8, "ward_name_ne": "खजुरा", "ward_name_en": "Khajura"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बैजनाथ",
+      "local_level_name_en": "Baijanath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 2, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 3, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 4, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 5, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 6, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 7, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"},
+        {"ward_no": 8, "ward_name_ne": "बैजनाथ", "ward_name_en": "Baijanath"}
+      ]
+    }
+  ]
+}

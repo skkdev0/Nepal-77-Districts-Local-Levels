@@ -1,0 +1,80 @@
+{
+  "district_id": "P3D07",
+  "district_name_ne": "भक्तपुर",
+  "district_name_en": "Bhaktapur",
+  "province_name_ne": "बागमती प्रदेश",
+  "province_name_en": "Bagmati Province",
+  "local_levels_count": 4,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भक्तपुर",
+      "local_level_name_en": "Bhaktapur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 2, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 3, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 4, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 5, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 6, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 7, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 8, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 9, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"},
+        {"ward_no": 10, "ward_name_ne": "भक्तपुर", "ward_name_en": "Bhaktapur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मध्यपुर थिमी",
+      "local_level_name_en": "Madhyapur Thimi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 2, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 3, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 4, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 5, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 6, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 7, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 8, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"},
+        {"ward_no": 9, "ward_name_ne": "मध्यपुर थिमी", "ward_name_en": "Madhyapur Thimi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "चाँगुनारायण",
+      "local_level_name_en": "Changunarayan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 2, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 3, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 4, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 5, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 6, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 7, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 8, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"},
+        {"ward_no": 9, "ward_name_ne": "चाँगुनारायण", "ward_name_en": "Changunarayan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सूर्यविनायक",
+      "local_level_name_en": "Suryabinayak",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 2, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 3, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 4, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 5, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 6, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 7, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 8, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 9, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"},
+        {"ward_no": 10, "ward_name_ne": "सूर्यविनायक", "ward_name_en": "Suryabinayak"}
+      ]
+    }
+  ]
+}

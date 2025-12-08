@@ -1,0 +1,184 @@
+{
+  "district_id": "P7D01",
+  "district_name_ne": "अछाम",
+  "district_name_en": "Achham",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मंगलसेन",
+      "local_level_name_en": "Mangalsen",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 2, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 3, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 4, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 5, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 6, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 7, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 8, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 9, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 10, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 11, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 12, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 13, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"},
+        {"ward_no": 14, "ward_name_ne": "मंगलसेन", "ward_name_en": "Mangalsen"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "कमलबजार",
+      "local_level_name_en": "Kamalbazar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 2, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 3, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 4, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 5, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 6, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 7, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 8, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 9, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"},
+        {"ward_no": 10, "ward_name_ne": "कमलबजार", "ward_name_en": "Kamalbazar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "साँफेबगर",
+      "local_level_name_en": "Safebagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 2, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 3, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 4, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 5, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 6, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 7, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 8, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 9, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 10, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 11, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 12, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"},
+        {"ward_no": 13, "ward_name_ne": "साँफेबगर", "ward_name_en": "Safebagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पञ्चदेवल विनायक",
+      "local_level_name_en": "Panchadewal Binayak",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 2, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 3, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 4, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 5, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 6, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 7, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 8, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 9, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 10, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"},
+        {"ward_no": 11, "ward_name_ne": "पञ्चदेवल विनायक", "ward_name_en": "Panchadewal Binayak"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "ढकारी",
+      "local_level_name_en": "Dhakari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 2, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 3, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 4, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 5, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 6, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 7, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"},
+        {"ward_no": 8, "ward_name_ne": "ढकारी", "ward_name_en": "Dhakari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रामारोशन",
+      "local_level_name_en": "Ramaroshan",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 2, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 3, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 4, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 5, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 6, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"},
+        {"ward_no": 7, "ward_name_ne": "रामारोशन", "ward_name_en": "Ramaroshan"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बान्नीगढी जयगढ",
+      "local_level_name_en": "Bannigadi Jayagad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"},
+        {"ward_no": 2, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"},
+        {"ward_no": 3, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"},
+        {"ward_no": 4, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"},
+        {"ward_no": 5, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"},
+        {"ward_no": 6, "ward_name_ne": "बान्नीगढी जयगढ", "ward_name_en": "Bannigadi Jayagad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चौरपाटी",
+      "local_level_name_en": "Chaurpati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 2, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 3, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 4, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 5, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 6, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"},
+        {"ward_no": 7, "ward_name_ne": "चौरपाटी", "ward_name_en": "Chaurpati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मेल्लेख",
+      "local_level_name_en": "Mellekh",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 2, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 3, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 4, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 5, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 6, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 7, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 8, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"},
+        {"ward_no": 9, "ward_name_ne": "मेल्लेख", "ward_name_en": "Mellekh"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तुर्माखाँद",
+      "local_level_name_en": "Turmakhad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 2, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 3, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 4, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 5, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 6, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 7, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 8, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"},
+        {"ward_no": 9, "ward_name_ne": "तुर्माखाँद", "ward_name_en": "Turmakhad"}
+      ]
+    }
+  ]
+}

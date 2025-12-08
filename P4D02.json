@@ -1,0 +1,149 @@
+{
+  "district_id": "P4D02",
+  "district_name_ne": "लमजुङ",
+  "district_name_en": "Lamjung",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 8,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेशीशहर",
+      "local_level_name_en": "Besisahar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 2, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 3, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 4, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 5, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 6, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 7, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 8, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 9, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 10, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"},
+        {"ward_no": 11, "ward_name_ne": "बेशीशहर", "ward_name_en": "Besisahar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सुन्दरबजार",
+      "local_level_name_en": "Sundarbazar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 2, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 3, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 4, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 5, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 6, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 7, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 8, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 9, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 10, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"},
+        {"ward_no": 11, "ward_name_ne": "सुन्दरबजार", "ward_name_en": "Sundarbazar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "राइनास",
+      "local_level_name_en": "Rinas",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 2, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 3, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 4, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 5, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 6, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 7, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 8, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 9, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"},
+        {"ward_no": 10, "ward_name_ne": "राइनास", "ward_name_en": "Rinas"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मध्यनेपाल",
+      "local_level_name_en": "MadhyaNepal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 2, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 3, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 4, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 5, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 6, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 7, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 8, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 9, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"},
+        {"ward_no": 10, "ward_name_ne": "मध्यनेपाल", "ward_name_en": "MadhyaNepal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दूधपोखरी",
+      "local_level_name_en": "Dudhpokhari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"},
+        {"ward_no": 2, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"},
+        {"ward_no": 3, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"},
+        {"ward_no": 4, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"},
+        {"ward_no": 5, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"},
+        {"ward_no": 6, "ward_name_ne": "दूधपोखरी", "ward_name_en": "Dudhpokhari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मर्स्याङ्दी",
+      "local_level_name_en": "Marsyangdi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 2, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 3, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 4, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 5, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 6, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 7, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 8, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"},
+        {"ward_no": 9, "ward_name_ne": "मर्स्याङ्दी", "ward_name_en": "Marsyangdi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दोर्दी",
+      "local_level_name_en": "Dordi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 2, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 3, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 4, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 5, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 6, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 7, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 8, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"},
+        {"ward_no": 9, "ward_name_ne": "दोर्दी", "ward_name_en": "Dordi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "क्व्होलासोंथर",
+      "local_level_name_en": "Kwholasothar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 2, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 3, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 4, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 5, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 6, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 7, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 8, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"},
+        {"ward_no": 9, "ward_name_ne": "क्व्होलासोंथर", "ward_name_en": "Kwholasothar"}
+      ]
+    }
+  ]
+}

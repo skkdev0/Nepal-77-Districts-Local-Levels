@@ -1,0 +1,103 @@
+{
+  "district_id": "P4D07",
+  "district_name_ne": "म्याग्दी",
+  "district_name_en": "Myagdi",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 6,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बेनी",
+      "local_level_name_en": "Beni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 2, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 3, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 4, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 5, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 6, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 7, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 8, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 9, "ward_name_ne": "बेनी", "ward_name_en": "Beni"},
+        {"ward_no": 10, "ward_name_ne": "बेनी", "ward_name_en": "Beni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "धवलागिरी",
+      "local_level_name_en": "Dhaulagiri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 2, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 3, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 4, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 5, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 6, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"},
+        {"ward_no": 7, "ward_name_ne": "धवलागिरी", "ward_name_en": "Dhaulagiri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मंगला",
+      "local_level_name_en": "Mangala",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मंगला", "ward_name_en": "Mangala"},
+        {"ward_no": 2, "ward_name_ne": "मंगला", "ward_name_en": "Mangala"},
+        {"ward_no": 3, "ward_name_ne": "मंगला", "ward_name_en": "Mangala"},
+        {"ward_no": 4, "ward_name_ne": "मंगला", "ward_name_en": "Mangala"},
+        {"ward_no": 5, "ward_name_ne": "मंगला", "ward_name_en": "Mangala"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मालिका",
+      "local_level_name_en": "Malika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 2, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 3, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 4, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 5, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 6, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 7, "ward_name_ne": "मालिका", "ward_name_en": "Malika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रघुगंगा",
+      "local_level_name_en": "Raghuganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 2, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 3, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 4, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 5, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 6, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 7, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"},
+        {"ward_no": 8, "ward_name_ne": "रघुगंगा", "ward_name_en": "Raghuganga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अन्नपूर्ण",
+      "local_level_name_en": "Annapurna",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 2, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 3, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 4, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 5, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 6, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 7, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 8, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"}
+      ]
+    }
+  ]
+}

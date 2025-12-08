@@ -1,0 +1,206 @@
+{
+  "district_id": "P7D06",
+  "district_name_ne": "बझाङ",
+  "district_name_en": "Bajhang",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 12,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "जयपृथ्वी",
+      "local_level_name_en": "Jaya Prithvi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 2, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 3, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 4, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 5, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 6, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 7, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 8, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 9, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 10, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"},
+        {"ward_no": 11, "ward_name_ne": "जयपृथ्वी", "ward_name_en": "Jaya Prithvi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बझाङ",
+      "local_level_name_en": "Bajhang Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 2, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 3, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 4, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 5, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 6, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 7, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 8, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 9, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 10, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 11, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"},
+        {"ward_no": 12, "ward_name_ne": "बझाङ", "ward_name_en": "Bajhang Municipality"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "बुङ्गल",
+      "local_level_name_en": "Bungal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 2, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 3, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 4, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 5, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 6, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 7, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 8, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 9, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 10, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"},
+        {"ward_no": 11, "ward_name_ne": "बुङ्गल", "ward_name_en": "Bungal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "केदारस्युँ",
+      "local_level_name_en": "Kedarsyu",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 2, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 3, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 4, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 5, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 6, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 7, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 8, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 9, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 10, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"},
+        {"ward_no": 11, "ward_name_ne": "केदारस्युँ", "ward_name_en": "Kedarsyu"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तलकोट",
+      "local_level_name_en": "Talakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 2, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 3, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 4, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 5, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 6, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 7, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"},
+        {"ward_no": 8, "ward_name_ne": "तलकोट", "ward_name_en": "Talakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बित्थडचिर",
+      "local_level_name_en": "Biththadchir",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 2, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 3, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 4, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 5, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 6, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 7, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"},
+        {"ward_no": 8, "ward_name_ne": "बित्थडचिर", "ward_name_en": "Biththadchir"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सुर्मा",
+      "local_level_name_en": "Surma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सुर्मा", "ward_name_en": "Surma"},
+        {"ward_no": 2, "ward_name_ne": "सुर्मा", "ward_name_en": "Surma"},
+        {"ward_no": 3, "ward_name_ne": "सुर्मा", "ward_name_en": "Surma"},
+        {"ward_no": 4, "ward_name_ne": "सुर्मा", "ward_name_en": "Surma"},
+        {"ward_no": 5, "ward_name_ne": "सुर्मा", "ward_name_en": "Surma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "छबिसपाथिभेरा",
+      "local_level_name_en": "Chhabis Pathibhera",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 2, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 3, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 4, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 5, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 6, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"},
+        {"ward_no": 7, "ward_name_ne": "छबिसपाथिभेरा", "ward_name_en": "Chhabis Pathibhera"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "काँडा",
+      "local_level_name_en": "Kanda",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "काँडा", "ward_name_en": "Kanda"},
+        {"ward_no": 2, "ward_name_ne": "काँडा", "ward_name_en": "Kanda"},
+        {"ward_no": 3, "ward_name_ne": "काँडा", "ward_name_en": "Kanda"},
+        {"ward_no": 4, "ward_name_ne": "काँडा", "ward_name_en": "Kanda"},
+        {"ward_no": 5, "ward_name_ne": "काँडा", "ward_name_en": "Kanda"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मस्टा",
+      "local_level_name_en": "Masta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 2, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 3, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 4, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 5, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 6, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"},
+        {"ward_no": 7, "ward_name_ne": "मस्टा", "ward_name_en": "Masta"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "थलारा",
+      "local_level_name_en": "Thalara",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 2, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 3, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 4, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 5, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 6, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 7, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 8, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"},
+        {"ward_no": 9, "ward_name_ne": "थलारा", "ward_name_en": "Thalara"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सायल",
+      "local_level_name_en": "Sayal Rural Municipality",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"},
+        {"ward_no": 2, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"},
+        {"ward_no": 3, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"},
+        {"ward_no": 4, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"},
+        {"ward_no": 5, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"},
+        {"ward_no": 6, "ward_name_ne": "सायल", "ward_name_en": "Sayal Rural Municipality"}
+      ]
+    }
+  ]
+}

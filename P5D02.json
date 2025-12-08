@@ -1,0 +1,145 @@
+{
+  "district_id": "P5D02",
+  "district_name_ne": "रुपन्देही",
+  "district_name_en": "Rupandehi",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 16,
+  "local_levels": [
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "बुटवल",
+      "local_level_name_en": "Butwal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 2, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 3, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 4, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 5, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 6, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 7, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 8, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 9, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 10, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 11, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 12, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 13, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 14, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 15, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 16, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 17, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 18, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"},
+        {"ward_no": 19, "ward_name_ne": "बुटवल", "ward_name_en": "Butwal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "सिद्धार्थनगर",
+      "local_level_name_en": "Siddharthanagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 2, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 3, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 4, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 5, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 6, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 7, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 8, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 9, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 10, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 11, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 12, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"},
+        {"ward_no": 13, "ward_name_ne": "सिद्धार्थनगर", "ward_name_en": "Siddharthanagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "तिलोत्तमा",
+      "local_level_name_en": "Tilottama",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 2, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 3, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 4, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 5, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 6, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 7, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 8, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 9, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 10, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 11, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 12, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 13, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 14, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 15, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 16, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"},
+        {"ward_no": 17, "ward_name_ne": "तिलोत्तमा", "ward_name_en": "Tilottama"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "सैनामैना",
+      "local_level_name_en": "Sainamaina",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 2, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 3, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 4, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 5, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 6, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 7, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 8, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 9, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 10, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"},
+        {"ward_no": 11, "ward_name_ne": "सैनामैना", "ward_name_en": "Sainamaina"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "देवदह",
+      "local_level_name_en": "Devdaha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 2, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 3, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 4, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 5, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 6, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 7, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 8, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 9, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 10, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 11, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"},
+        {"ward_no": 12, "ward_name_ne": "देवदह", "ward_name_en": "Devdaha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "लुम्बिनी सांस्कृतिक",
+      "local_level_name_en": "Lumbini Sanskritik",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 2, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 3, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 4, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 5, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 6, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 7, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 8, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 9, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 10, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"},
+        {"ward_no": 11, "ward_name_ne": "लुम्बिनी सांस्कृतिक", "ward_name_en": "Lumbini Sanskritik"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रोहिणी",
+      "local_level_name_en": "Rohini",
+      "wards

@@ -1,0 +1,171 @@
+{
+  "district_id": "P5D04",
+  "district_name_ne": "पाल्पा",
+  "district_name_en": "Palpa",
+  "province_name_ne": "लुम्बिनी प्रदेश",
+  "province_name_en": "Lumbini Province",
+  "local_levels_count": 10,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "तानसेन",
+      "local_level_name_en": "Tansen",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 2, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 3, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 4, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 5, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 6, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 7, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 8, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 9, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 10, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 11, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 12, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 13, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"},
+        {"ward_no": 14, "ward_name_ne": "तानसेन", "ward_name_en": "Tansen"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "रामपुर",
+      "local_level_name_en": "Rampur",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 2, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 3, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 4, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 5, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 6, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 7, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 8, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 9, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"},
+        {"ward_no": 10, "ward_name_ne": "रामपुर", "ward_name_en": "Rampur"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रम्भा",
+      "local_level_name_en": "Rambha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रम्भा", "ward_name_en": "Rambha"},
+        {"ward_no": 2, "ward_name_ne": "रम्भा", "ward_name_en": "Rambha"},
+        {"ward_no": 3, "ward_name_ne": "रम्भा", "ward_name_en": "Rambha"},
+        {"ward_no": 4, "ward_name_ne": "रम्भा", "ward_name_en": "Rambha"},
+        {"ward_no": 5, "ward_name_ne": "रम्भा", "ward_name_en": "Rambha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पूर्वखोला",
+      "local_level_name_en": "Purba Khola",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"},
+        {"ward_no": 2, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"},
+        {"ward_no": 3, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"},
+        {"ward_no": 4, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"},
+        {"ward_no": 5, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"},
+        {"ward_no": 6, "ward_name_ne": "पूर्वखोला", "ward_name_en": "Purba Khola"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "माथागढी",
+      "local_level_name_en": "Mathagadhi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 2, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 3, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 4, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 5, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 6, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 7, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"},
+        {"ward_no": 8, "ward_name_ne": "माथागढी", "ward_name_en": "Mathagadhi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तिनाउ",
+      "local_level_name_en": "Tinau",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"},
+        {"ward_no": 2, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"},
+        {"ward_no": 3, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"},
+        {"ward_no": 4, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"},
+        {"ward_no": 5, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"},
+        {"ward_no": 6, "ward_name_ne": "तिनाउ", "ward_name_en": "Tinau"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "निस्दी",
+      "local_level_name_en": "Nisdi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 2, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 3, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 4, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 5, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 6, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"},
+        {"ward_no": 7, "ward_name_ne": "निस्दी", "ward_name_en": "Nisdi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सत्यवती",
+      "local_level_name_en": "Satyawati",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 2, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 3, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 4, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 5, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 6, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 7, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"},
+        {"ward_no": 8, "ward_name_ne": "सत्यवती", "ward_name_en": "Satyawati"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बगनासकाली",
+      "local_level_name_en": "Bagnaskali",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 2, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 3, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 4, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 5, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 6, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 7, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 8, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"},
+        {"ward_no": 9, "ward_name_ne": "बगनासकाली", "ward_name_en": "Bagnaskali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रिब्दीकोट",
+      "local_level_name_en": "Ribdikot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 2, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 3, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 4, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 5, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 6, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 7, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"},
+        {"ward_no": 8, "ward_name_ne": "रिब्दीकोट", "ward_name_en": "Ribdikot"}
+      ]
+    }
+  ]
+}

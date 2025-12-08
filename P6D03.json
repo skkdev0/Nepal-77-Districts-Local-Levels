@@ -1,0 +1,108 @@
+{
+  "district_id": "P6D03",
+  "district_name_ne": "हुम्ला",
+  "district_name_en": "Humla",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 7,
+  "local_levels": [
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिमकोट",
+      "local_level_name_en": "Simkot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 2, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 3, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 4, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 5, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 6, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 7, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"},
+        {"ward_no": 8, "ward_name_ne": "सिमकोट", "ward_name_en": "Simkot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नाम्खा",
+      "local_level_name_en": "Namkha",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"},
+        {"ward_no": 2, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"},
+        {"ward_no": 3, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"},
+        {"ward_no": 4, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"},
+        {"ward_no": 5, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"},
+        {"ward_no": 6, "ward_name_ne": "नाम्खा", "ward_name_en": "Namkha"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खार्पुनाथ",
+      "local_level_name_en": "Kharpunath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खार्पुनाथ", "ward_name_en": "Kharpunath"},
+        {"ward_no": 2, "ward_name_ne": "खार्पुनाथ", "ward_name_en": "Kharpunath"},
+        {"ward_no": 3, "ward_name_ne": "खार्पुनाथ", "ward_name_en": "Kharpunath"},
+        {"ward_no": 4, "ward_name_ne": "खार्पुनाथ", "ward_name_en": "Kharpunath"},
+        {"ward_no": 5, "ward_name_ne": "खार्पुनाथ", "ward_name_en": "Kharpunath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सत्याङ्ग",
+      "local_level_name_en": "Satyang",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"},
+        {"ward_no": 2, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"},
+        {"ward_no": 3, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"},
+        {"ward_no": 4, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"},
+        {"ward_no": 5, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"},
+        {"ward_no": 6, "ward_name_ne": "सत्याङ्ग", "ward_name_en": "Satyang"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अदानचुली",
+      "local_level_name_en": "Adanchuli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"},
+        {"ward_no": 2, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"},
+        {"ward_no": 3, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"},
+        {"ward_no": 4, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"},
+        {"ward_no": 5, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"},
+        {"ward_no": 6, "ward_name_ne": "अदानचुली", "ward_name_en": "Adanchuli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चङ्खेली",
+      "local_level_name_en": "Chankheli",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"},
+        {"ward_no": 2, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"},
+        {"ward_no": 3, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"},
+        {"ward_no": 4, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"},
+        {"ward_no": 5, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"},
+        {"ward_no": 6, "ward_name_ne": "चङ्खेली", "ward_name_en": "Chankheli"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ताँजाकोट",
+      "local_level_name_en": "Tajakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ताँजाकोट", "ward_name_en": "Tajakot"},
+        {"ward_no": 2, "ward_name_ne": "ताँजाकोट", "ward_name_en": "Tajakot"},
+        {"ward_no": 3, "ward_name_ne": "ताँजाकोट", "ward_name_en": "Tajakot"},
+        {"ward_no": 4, "ward_name_ne": "ताँजाकोट", "ward_name_en": "Tajakot"},
+        {"ward_no": 5, "ward_name_ne": "ताँजाकोट", "ward_name_en": "Tajakot"}
+      ]
+    }
+  ]
+}

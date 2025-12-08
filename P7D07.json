@@ -1,0 +1,140 @@
+{
+  "district_id": "P7D07",
+  "district_name_ne": "दार्चुला",
+  "district_name_en": "Darchula",
+  "province_name_ne": "सुदूरपश्चिम प्रदेश",
+  "province_name_en": "Sudurpashchim Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "महाकाली",
+      "local_level_name_en": "Mahakali",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 2, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 3, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 4, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 5, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 6, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 7, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 8, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"},
+        {"ward_no": 9, "ward_name_ne": "महाकाली", "ward_name_en": "Mahakali"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "शैल्यशिखर",
+      "local_level_name_en": "Shailyashikhar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 2, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 3, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 4, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 5, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 6, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 7, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 8, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"},
+        {"ward_no": 9, "ward_name_ne": "शैल्यशिखर", "ward_name_en": "Shailyashikhar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "लेकम",
+      "local_level_name_en": "Lekam",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"},
+        {"ward_no": 2, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"},
+        {"ward_no": 3, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"},
+        {"ward_no": 4, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"},
+        {"ward_no": 5, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"},
+        {"ward_no": 6, "ward_name_ne": "लेकम", "ward_name_en": "Lekam"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "दुहूँ",
+      "local_level_name_en": "Duhun",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "दुहूँ", "ward_name_en": "Duhun"},
+        {"ward_no": 2, "ward_name_ne": "दुहूँ", "ward_name_en": "Duhun"},
+        {"ward_no": 3, "ward_name_ne": "दुहूँ", "ward_name_en": "Duhun"},
+        {"ward_no": 4, "ward_name_ne": "दुहूँ", "ward_name_en": "Duhun"},
+        {"ward_no": 5, "ward_name_ne": "दुहूँ", "ward_name_en": "Duhun"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नौगाड",
+      "local_level_name_en": "Naugad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"},
+        {"ward_no": 2, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"},
+        {"ward_no": 3, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"},
+        {"ward_no": 4, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"},
+        {"ward_no": 5, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"},
+        {"ward_no": 6, "ward_name_ne": "नौगाड", "ward_name_en": "Naugad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मालिका",
+      "local_level_name_en": "Malika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 2, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 3, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 4, "ward_name_ne": "मालिका", "ward_name_en": "Malika"},
+        {"ward_no": 5, "ward_name_ne": "मालिका", "ward_name_en": "Malika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अपि हिमाल",
+      "local_level_name_en": "Api Himal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"},
+        {"ward_no": 2, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"},
+        {"ward_no": 3, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"},
+        {"ward_no": 4, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"},
+        {"ward_no": 5, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"},
+        {"ward_no": 6, "ward_name_ne": "अपि हिमाल", "ward_name_en": "Api Himal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मार्मा",
+      "local_level_name_en": "Marma",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"},
+        {"ward_no": 2, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"},
+        {"ward_no": 3, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"},
+        {"ward_no": 4, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"},
+        {"ward_no": 5, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"},
+        {"ward_no": 6, "ward_name_ne": "मार्मा", "ward_name_en": "Marma"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "ब्याँस",
+      "local_level_name_en": "Byans",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"},
+        {"ward_no": 2, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"},
+        {"ward_no": 3, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"},
+        {"ward_no": 4, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"},
+        {"ward_no": 5, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"},
+        {"ward_no": 6, "ward_name_ne": "ब्याँस", "ward_name_en": "Byans"}
+      ]
+    }
+  ]
+}

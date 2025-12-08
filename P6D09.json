@@ -1,0 +1,132 @@
+{
+  "district_id": "P6D09",
+  "district_name_ne": "रुकुम पश्चिम",
+  "district_name_en": "Rukum Paschim",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 6,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "मुसिकोट",
+      "local_level_name_en": "Musikot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 2, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 3, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 4, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 5, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 6, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 7, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 8, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 9, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 10, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 11, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 12, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 13, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"},
+        {"ward_no": 14, "ward_name_ne": "मुसिकोट", "ward_name_en": "Musikot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "आठबिसकोट",
+      "local_level_name_en": "Aathbiskot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 2, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 3, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 4, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 5, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 6, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 7, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 8, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 9, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 10, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 11, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 12, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 13, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"},
+        {"ward_no": 14, "ward_name_ne": "आठबिसकोट", "ward_name_en": "Aathbiskot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "चौरजहारी",
+      "local_level_name_en": "Chaurjahari",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 2, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 3, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 4, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 5, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 6, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 7, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 8, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 9, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 10, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 11, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 12, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 13, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"},
+        {"ward_no": 14, "ward_name_ne": "चौरजहारी", "ward_name_en": "Chaurjahari"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बाँफीकोट",
+      "local_level_name_en": "Bafikot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 2, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 3, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 4, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 5, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 6, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 7, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 8, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 9, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"},
+        {"ward_no": 10, "ward_name_ne": "बाँफीकोट", "ward_name_en": "Bafikot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "त्रिवेणी",
+      "local_level_name_en": "Triveni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 2, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 3, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 4, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 5, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 6, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 7, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 8, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 9, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 10, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"},
+        {"ward_no": 11, "ward_name_ne": "त्रिवेणी", "ward_name_en": "Triveni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सानीभेरी",
+      "local_level_name_en": "Sanibheri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 2, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 3, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 4, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 5, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 6, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 7, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 8, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 9, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 10, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"},
+        {"ward_no": 11, "ward_name_ne": "सानीभेरी", "ward_name_en": "Sanibheri"}
+      ]
+    }
+  ]
+}

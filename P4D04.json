@@ -1,0 +1,122 @@
+{
+  "district_id": "P4D04",
+  "district_name_ne": "कास्की",
+  "district_name_en": "Kaski",
+  "province_name_ne": "गण्डकी प्रदेश",
+  "province_name_en": "Gandaki Province",
+  "local_levels_count": 5,
+  "local_levels": [
+    {
+      "local_level_type_ne": "महानगरपालिका",
+      "local_level_type_en": "Metropolitan City",
+      "local_level_name_ne": "पोखरा",
+      "local_level_name_en": "Pokhara",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 2, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 3, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 4, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 5, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 6, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 7, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 8, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 9, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 10, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 11, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 12, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 13, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 14, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 15, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 16, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 17, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 18, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 19, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 20, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 21, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 22, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 23, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 24, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 25, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 26, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 27, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 28, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 29, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 30, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 31, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 32, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"},
+        {"ward_no": 33, "ward_name_ne": "पोखरा", "ward_name_en": "Pokhara"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "अन्नपूर्ण",
+      "local_level_name_en": "Annapurna",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 2, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 3, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 4, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 5, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 6, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 7, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 8, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 9, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 10, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"},
+        {"ward_no": 11, "ward_name_ne": "अन्नपूर्ण", "ward_name_en": "Annapurna"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "माछापुच्छ्रे",
+      "local_level_name_en": "Machhapuchchhre",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 2, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 3, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 4, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 5, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 6, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 7, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 8, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"},
+        {"ward_no": 9, "ward_name_ne": "माछापुच्छ्रे", "ward_name_en": "Machhapuchchhre"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रूपा",
+      "local_level_name_en": "Rupa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 2, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 3, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 4, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 5, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 6, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"},
+        {"ward_no": 7, "ward_name_ne": "रूपा", "ward_name_en": "Rupa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मादी",
+      "local_level_name_en": "Madi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 2, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 3, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 4, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 5, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 6, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 7, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 8, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 9, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 10, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 11, "ward_name_ne": "मादी", "ward_name_en": "Madi"},
+        {"ward_no": 12, "ward_name_ne": "मादी", "ward_name_en": "Madi"}
+      ]
+    }
+  ]
+}

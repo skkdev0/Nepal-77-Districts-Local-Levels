@@ -1,0 +1,163 @@
+{
+  "district_id": "P6D05",
+  "district_name_ne": "कालिकोट",
+  "district_name_en": "Kalikot",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "खाँडाचक्र",
+      "local_level_name_en": "Khandachakra",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 2, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 3, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 4, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 5, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 6, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 7, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 8, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 9, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 10, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"},
+        {"ward_no": 11, "ward_name_ne": "खाँडाचक्र", "ward_name_en": "Khandachakra"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "रास्कोट",
+      "local_level_name_en": "Raskot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 2, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 3, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 4, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 5, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 6, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 7, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 8, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"},
+        {"ward_no": 9, "ward_name_ne": "रास्कोट", "ward_name_en": "Raskot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सान्नीत्रिवेणी",
+      "local_level_name_en": "Sannitriveni",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 2, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 3, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 4, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 5, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 6, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 7, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 8, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"},
+        {"ward_no": 9, "ward_name_ne": "सान्नीत्रिवेणी", "ward_name_en": "Sannitriveni"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पलाता",
+      "local_level_name_en": "Palata",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 2, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 3, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 4, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 5, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 6, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 7, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 8, "ward_name_ne": "पलाता", "ward_name_en": "Palata"},
+        {"ward_no": 9, "ward_name_ne": "पलाता", "ward_name_en": "Palata"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "शुभकालिका",
+      "local_level_name_en": "Subhakalika",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 2, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 3, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 4, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 5, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 6, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 7, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"},
+        {"ward_no": 8, "ward_name_ne": "शुभकालिका", "ward_name_en": "Subhakalika"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "नरहरिनाथ",
+      "local_level_name_en": "Narharinath",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 2, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 3, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 4, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 5, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 6, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 7, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 8, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"},
+        {"ward_no": 9, "ward_name_ne": "नरहरिनाथ", "ward_name_en": "Narharinath"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "महाबै",
+      "local_level_name_en": "Mahabai",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"},
+        {"ward_no": 2, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"},
+        {"ward_no": 3, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"},
+        {"ward_no": 4, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"},
+        {"ward_no": 5, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"},
+        {"ward_no": 6, "ward_name_ne": "महाबै", "ward_name_en": "Mahabai"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "तिलागुफा",
+      "local_level_name_en": "Tilagufa",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 2, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 3, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 4, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 5, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 6, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 7, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 8, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 9, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 10, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"},
+        {"ward_no": 11, "ward_name_ne": "तिलागुफा", "ward_name_en": "Tilagufa"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "पचालझरना",
+      "local_level_name_en": "Pachaljharana",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 2, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 3, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 4, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 5, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 6, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 7, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 8, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"},
+        {"ward_no": 9, "ward_name_ne": "पचालझरना", "ward_name_en": "Pachaljharana"}
+      ]
+    }
+  ]
+}

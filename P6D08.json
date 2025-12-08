@@ -1,0 +1,180 @@
+{
+  "district_id": "P6D08",
+  "district_name_ne": "सुर्खेत",
+  "district_name_en": "Surkhet",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 9,
+  "local_levels": [
+    {
+      "local_level_type_ne": "उप-महानगरपालिका",
+      "local_level_type_en": "Sub-Metropolitan City",
+      "local_level_name_ne": "वीरेन्द्रनगर",
+      "local_level_name_en": "Birendranagar",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 2, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 3, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 4, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 5, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 6, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 7, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 8, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 9, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 10, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 11, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 12, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 13, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 14, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 15, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"},
+        {"ward_no": 16, "ward_name_ne": "वीरेन्द्रनगर", "ward_name_en": "Birendranagar"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "भेरीगंगा",
+      "local_level_name_en": "Bheriganga",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 2, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 3, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 4, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 5, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 6, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 7, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 8, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 9, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 10, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 11, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 12, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"},
+        {"ward_no": 13, "ward_name_ne": "भेरीगंगा", "ward_name_en": "Bheriganga"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "गुर्भाकोट",
+      "local_level_name_en": "Gurbhakot",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 2, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 3, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 4, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 5, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 6, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 7, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 8, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 9, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 10, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 11, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 12, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 13, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"},
+        {"ward_no": 14, "ward_name_ne": "गुर्भाकोट", "ward_name_en": "Gurbhakot"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "पञ्चपुरी",
+      "local_level_name_en": "Panchapuri",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 2, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 3, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 4, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 5, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 6, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 7, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 8, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 9, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 10, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"},
+        {"ward_no": 11, "ward_name_ne": "पञ्चपुरी", "ward_name_en": "Panchapuri"}
+      ]
+    },
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "लेकबेँसी",
+      "local_level_name_en": "Lekbesi",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 2, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 3, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 4, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 5, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 6, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 7, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 8, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 9, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"},
+        {"ward_no": 10, "ward_name_ne": "लेकबेँसी", "ward_name_en": "Lekbesi"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चिङ्गाड",
+      "local_level_name_en": "Chingad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चिङ्गाड", "ward_name_en": "Chingad"},
+        {"ward_no": 2, "ward_name_ne": "चिङ्गाड", "ward_name_en": "Chingad"},
+        {"ward_no": 3, "ward_name_ne": "चिङ्गाड", "ward_name_en": "Chingad"},
+        {"ward_no": 4, "ward_name_ne": "चिङ्गाड", "ward_name_en": "Chingad"},
+        {"ward_no": 5, "ward_name_ne": "चिङ्गाड", "ward_name_en": "Chingad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "बराहाताल",
+      "local_level_name_en": "Barahatal",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 2, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 3, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 4, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 5, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 6, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 7, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 8, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 9, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"},
+        {"ward_no": 10, "ward_name_ne": "बराहाताल", "ward_name_en": "Barahatal"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "चौकुने",
+      "local_level_name_en": "Chaukune",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 2, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 3, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 4, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 5, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 6, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 7, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 8, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 9, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"},
+        {"ward_no": 10, "ward_name_ne": "चौकुने", "ward_name_en": "Chaukune"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सिम्ता",
+      "local_level_name_en": "Simta",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 2, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 3, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 4, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 5, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 6, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 7, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 8, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"},
+        {"ward_no": 9, "ward_name_ne": "सिम्ता", "ward_name_en": "Simta"}
+      ]
+    }
+  ]
+}

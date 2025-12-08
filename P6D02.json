@@ -1,0 +1,87 @@
+{
+  "district_id": "P6D02",
+  "district_name_ne": "मुगु",
+  "district_name_en": "Mugu",
+  "province_name_ne": "कर्णाली प्रदेश",
+  "province_name_en": "Karnali Province",
+  "local_levels_count": 4,
+  "local_levels": [
+    {
+      "local_level_type_ne": "नगरपालिका",
+      "local_level_type_en": "Municipality",
+      "local_level_name_ne": "छायाँनाथ रारा",
+      "local_level_name_en": "Chhayanath Rara",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 2, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 3, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 4, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 5, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 6, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 7, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 8, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 9, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 10, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 11, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 12, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 13, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"},
+        {"ward_no": 14, "ward_name_ne": "छायाँनाथ रारा", "ward_name_en": "Chhayanath Rara"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "सोरु",
+      "local_level_name_en": "Soru",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 2, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 3, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 4, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 5, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 6, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 7, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 8, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 9, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 10, "ward_name_ne": "सोरु", "ward_name_en": "Soru"},
+        {"ward_no": 11, "ward_name_ne": "सोरु", "ward_name_en": "Soru"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "खत्याड",
+      "local_level_name_en": "Khatyad",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 2, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 3, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 4, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 5, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 6, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 7, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 8, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 9, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 10, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"},
+        {"ward_no": 11, "ward_name_ne": "खत्याड", "ward_name_en": "Khatyad"}
+      ]
+    },
+    {
+      "local_level_type_ne": "गाउँपालिका",
+      "local_level_type_en": "Rural Municipality",
+      "local_level_name_ne": "मुगुमकार्मारोङ",
+      "local_level_name_en": "Mugum Karmarong",
+      "wards": [
+        {"ward_no": 1, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 2, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 3, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 4, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 5, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 6, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 7, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 8, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"},
+        {"ward_no": 9, "ward_name_ne": "मुगुमकार्मारोङ", "ward_name_en": "Mugum Karmarong"}
+      ]
+    }
+  ]
+}
